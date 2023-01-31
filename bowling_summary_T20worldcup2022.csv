@@ -1,0 +1,501 @@
+,S.NO.,Bowler,Overs,Maidens,Runs,Wickets,ECON,0s,4s,6s,WD,NB,Country
+0,1,Maheesh Theekshana,4,0,23,1,5.75,7,0,0,2,0,Sri Lanka
+1,2,Dushmantha Chameera,4,0,39,1,9.75,6,3,1,2,0,Sri Lanka
+2,3,Pramod Madushan,4,0,37,2,9.25,6,3,1,0,0,Sri Lanka
+3,4,Chamika Karunaratne,4,0,36,1,9.00,7,3,1,1,0,Sri Lanka
+4,5,Wanindu Hasaranga de Silva,4,0,27,1,6.75,8,1,1,0,0,Sri Lanka
+5,1,Gerhard Erasmus,1,0,8,0,8.00,1,1,0,0,0,Namibia
+6,2,David Wiese,4,0,16,2,4.00,13,1,0,0,0,Namibia
+7,3,Bernard Scholtz,4,0,18,2,4.50,10,1,0,0,0,Namibia
+8,4,Ben Shikongo,3,1,22,2,7.33,6,3,0,0,0,Namibia
+9,5,JJ Smit,3,0,16,1,5.33,7,0,0,1,0,Namibia
+10,6,Jan Frylinck,4,0,26,2,6.50,10,0,2,1,0,Namibia
+11,1,Fred Klaassen,4,0,13,2,3.25,18,0,0,3,0,Netherlands
+12,2,Tim Pringle,4,0,13,1,3.25,11,0,0,0,0,Netherlands
+13,3,Logan van Beek,2,0,19,0,9.50,5,0,2,1,0,Netherlands
+14,4,Bas de Leede,3,0,19,3,6.33,9,2,0,2,0,Netherlands
+15,5,Paul van Meekeren,4,0,21,0,5.25,11,1,0,0,0,Netherlands
+16,6,Roelof van der Merwe,3,0,19,1,6.33,7,0,1,0,0,Netherlands
+17,1,Junaid Siddique,4,0,24,3,6.00,10,2,0,1,0,United Arab Emirates
+18,2,Basil Hameed,1,0,7,1,7.00,4,0,1,0,0,United Arab Emirates
+19,3,Aayan Afzal Khan,3,0,15,1,5.00,8,1,0,0,0,United Arab Emirates
+20,4,Karthik Meiyappan,4,0,22,1,5.50,11,2,0,0,0,United Arab Emirates
+21,5,Zahoor Khan,4,0,11,1,2.75,14,0,0,0,0,United Arab Emirates
+22,6,Zawar Farid,2.5,0,24,0,8.47,2,2,0,0,0,United Arab Emirates
+23,7,Kashif Daud,1,0,5,0,5.00,1,0,0,0,0,United Arab Emirates
+24,1,Kyle Mayers,2,0,24,0,12.00,5,5,0,2,0,West Indies
+25,2,Akeal Hosein,4,0,31,0,7.75,8,2,1,0,0,West Indies
+26,3,Alzarri Joseph,4,0,28,2,7.00,9,3,0,2,0,West Indies
+27,4,Obed McCoy,3,0,25,0,8.33,6,4,0,0,0,West Indies
+28,5,Jason Holder,3,0,14,2,4.66,8,1,0,0,0,West Indies
+29,6,Odean Smith,4,0,31,1,7.75,6,3,0,1,0,West Indies
+30,1,Mark Watt,4,0,12,3,3.00,16,1,0,1,0,Scotland
+31,2,Brad Wheal,4,0,32,2,8.00,10,4,1,0,0,Scotland
+32,3,Josh Davey,3,0,34,1,11.33,8,4,2,1,0,Scotland
+33,4,Safyaan Sharif,3.3,0,23,1,6.57,7,2,0,2,0,Scotland
+34,5,Michael Leask,4,0,15,2,3.75,11,0,0,1,0,Scotland
+35,1,Josh Little,4,0,24,3,6.00,11,3,0,0,0,Ireland
+36,2,Mark Adair,4,0,39,2,9.75,6,3,1,2,0,Ireland
+37,3,Barry McCarthy,4,0,24,0,6.00,11,2,0,2,0,Ireland
+38,4,Curtis Campher,3,0,29,0,9.66,6,2,2,0,0,Ireland
+39,5,Simi Singh,3,0,31,2,10.33,5,2,2,1,0,Ireland
+40,6,Gareth Delany,2,0,21,0,10.50,4,2,1,1,0,Ireland
+41,1,Richard Ngarava,4,0,22,2,5.50,13,3,0,0,0,Zimbabwe
+42,2,Tendai Chatara,4,0,22,2,5.50,13,1,1,2,0,Zimbabwe
+43,3,Blessing Muzarabani,4,0,23,3,5.75,14,0,2,0,1,Zimbabwe
+44,4,Luke Jongwe,2,0,24,0,12.00,1,4,0,0,0,Zimbabwe
+45,5,Sean Williams,3,0,20,1,6.66,3,0,0,0,0,Zimbabwe
+46,6,Sikandar Raza,3,0,22,1,7.33,8,1,1,1,0,Zimbabwe
+47,1,Fred Klaassen,3,0,15,0,5.00,11,1,0,0,0,Netherlands
+48,2,Tim Pringle,3,0,15,1,5.00,8,0,0,0,0,Netherlands
+49,3,Bas de Leede,3,0,18,2,6.00,6,1,0,0,0,Netherlands
+50,4,Colin Ackermann,3,0,17,1,5.66,8,2,0,0,0,Netherlands
+51,5,Paul van Meekeren,4,0,18,1,4.50,11,1,0,1,0,Netherlands
+52,6,Timm van der Gugten,3,0,29,0,9.66,4,1,1,2,0,Netherlands
+53,7,Roelof van der Merwe,1,0,6,1,6.00,1,0,0,1,0,Netherlands
+54,1,Bernard Scholtz,4,0,21,1,5.25,10,0,1,0,0,Namibia
+55,2,David Wiese,2.3,0,22,0,8.80,4,3,0,0,0,Namibia
+56,3,Gerhard Erasmus,3,0,13,0,4.33,8,0,0,1,0,Namibia
+57,4,Ben Shikongo,1,0,18,0,18.00,1,0,2,1,0,Namibia
+58,5,JJ Smit,4,0,24,2,6.00,9,2,0,0,0,Namibia
+59,6,Jan Frylinck,4,1,16,1,4.00,11,1,0,0,0,Namibia
+60,7,Jan Nicol Loftie-Eaton,1,0,8,0,8.00,2,1,0,0,1,Namibia
+61,1,Junaid Siddique,4,0,36,0,9.00,8,2,1,2,0,United Arab Emirates
+62,2,Kashif Daud,1,0,14,0,14.00,0,2,0,0,0,United Arab Emirates
+63,3,Zahoor Khan,4,0,26,2,6.50,10,3,0,0,0,United Arab Emirates
+64,4,Aayan Afzal Khan,3,0,16,1,5.33,7,1,0,0,0,United Arab Emirates
+65,5,Aryan Lakra,3,0,24,1,8.00,5,3,0,0,0,United Arab Emirates
+66,6,Karthik Meiyappan,4,0,19,3,4.75,12,0,1,0,0,United Arab Emirates
+67,7,Basil Hameed,1,0,13,0,13.00,1,1,1,0,0,United Arab Emirates
+68,1,Pramod Madushan,3,0,14,1,4.66,12,2,0,1,0,Sri Lanka
+69,2,Maheesh Theekshana,3.1,0,15,2,4.73,10,2,0,0,0,Sri Lanka
+70,3,Dushmantha Chameera,3.5,0,15,3,3.91,16,0,1,0,0,Sri Lanka
+71,4,Chamika Karunaratne,2,0,14,0,7.00,5,2,0,0,0,Sri Lanka
+72,5,Wanindu Hasaranga de Silva,4,1,8,3,2.00,17,0,0,0,0,Sri Lanka
+73,6,Dasun Shanaka,1.1,0,7,1,6.00,3,0,0,1,0,Sri Lanka
+74,1,Josh Little,4,0,30,1,7.50,10,2,1,1,0,Ireland
+75,2,Mark Adair,4,0,23,1,5.75,12,2,0,2,0,Ireland
+76,3,Barry McCarthy,4,0,59,0,14.75,4,6,3,1,1,Ireland
+77,4,Gareth Delany,3,0,28,0,9.33,3,2,1,0,0,Ireland
+78,5,Simi Singh,2,0,16,0,8.00,2,2,0,0,0,Ireland
+79,6,Curtis Campher,2,0,9,2,4.50,7,1,0,0,0,Ireland
+80,7,George Dockrell,1,0,9,0,9.00,1,1,0,0,0,Ireland
+81,1,Mark Watt,4,0,39,1,9.75,10,2,1,2,0,Scotland
+82,2,Brad Wheal,4,0,25,1,6.25,11,2,1,0,0,Scotland
+83,3,Josh Davey,4,0,46,0,11.50,5,8,0,1,0,Scotland
+84,4,Safyaan Sharif,3,0,32,1,10.66,3,4,0,1,0,Scotland
+85,5,Chris Greaves,2,0,18,0,9.00,1,0,1,1,0,Scotland
+86,6,Michael Leask,2,0,16,1,8.00,2,1,0,0,0,Scotland
+87,1,Richard Ngarava,3,0,20,0,6.66,9,1,1,1,0,Zimbabwe
+88,2,Tendai Chatara,3,0,22,0,7.33,5,2,0,2,0,Zimbabwe
+89,3,Blessing Muzarabani,4,0,38,2,9.50,10,2,2,2,1,Zimbabwe
+90,4,Ryan Burl,3,0,27,0,9.00,5,3,1,0,0,Zimbabwe
+91,5,Sikandar Raza,4,0,19,3,4.75,7,0,0,0,0,Zimbabwe
+92,6,Sean Williams,3,0,17,1,5.66,7,1,0,0,1,Zimbabwe
+93,1,Kyle Mayers,1,0,17,0,17.00,3,3,0,1,0,West Indies
+94,2,Akeal Hosein,4,0,25,1,6.25,12,1,1,1,1,West Indies
+95,3,Alzarri Joseph,4,0,16,4,4.00,16,1,1,0,0,West Indies
+96,4,Obed McCoy,3,0,19,1,6.33,9,3,0,0,0,West Indies
+97,5,Jason Holder,3.2,0,12,3,3.60,12,1,0,0,0,West Indies
+98,6,Odean Smith,3,0,31,1,10.33,8,4,1,1,1,West Indies
+99,1,Fred Klaassen,4,0,34,1,8.50,9,1,2,0,0,Netherlands
+100,2,Tim Pringle,3,0,22,0,7.33,8,0,2,0,0,Netherlands
+101,3,Roelof van der Merwe,3,0,16,0,5.33,10,2,0,0,0,Netherlands
+102,4,Paul van Meekeren,4,0,25,2,6.25,11,3,0,1,0,Netherlands
+103,5,Bas de Leede,3,0,31,2,10.33,5,2,2,0,0,Netherlands
+104,6,Timm van der Gugten,3,0,31,1,10.33,3,2,1,0,0,Netherlands
+105,1,Dhananjaya de Silva,1,0,5,0,5.00,1,0,0,0,0,Sri Lanka
+106,2,Lahiru Kumara,4,0,28,1,7.00,14,2,1,1,0,Sri Lanka
+107,3,Binura Fernando,4,0,33,1,8.25,11,4,1,1,0,Sri Lanka
+108,4,Maheesh Theekshana,4,0,32,2,8.00,12,1,2,2,1,Sri Lanka
+109,5,Wanindu Hasaranga de Silva,4,0,28,3,7.00,11,3,0,0,0,Sri Lanka
+110,6,Chamika Karunaratne,2,0,11,0,5.50,6,1,0,1,0,Sri Lanka
+111,7,Dasun Shanaka,1,0,7,0,7.00,3,1,0,0,0,Sri Lanka
+112,1,Ruben Trumpelmann,4,0,22,0,5.50,10,0,0,3,0,Namibia
+113,2,David Wiese,4,0,27,1,6.75,12,2,1,1,0,Namibia
+114,3,Bernard Scholtz,4,0,22,1,5.50,11,1,1,0,0,Namibia
+115,4,JJ Smit,4,0,39,0,9.75,11,2,3,0,0,Namibia
+116,5,Jan Frylinck,3,0,30,0,10.00,3,2,1,1,0,Namibia
+117,6,Ben Shikongo,1,0,8,1,8.00,1,1,0,0,0,Namibia
+118,1,Basil Hameed,3,0,17,2,5.66,10,2,0,0,0,United Arab Emirates
+119,2,Junaid Siddique,4,0,35,1,8.75,8,3,1,2,0,United Arab Emirates
+120,3,Zahoor Khan,4,0,20,2,5.00,15,1,0,2,2,United Arab Emirates
+121,4,Ahmed Raza,1,0,9,0,9.00,1,1,0,0,0,United Arab Emirates
+122,5,Karthik Meiyappan,4,0,34,1,8.50,8,2,2,0,0,United Arab Emirates
+123,6,Aayan Afzal Khan,2,0,7,0,3.50,5,0,0,0,0,United Arab Emirates
+124,7,Muhammad Waseem,2,0,16,1,8.00,3,0,1,0,0,United Arab Emirates
+125,1,Josh Little,4,0,31,0,7.75,8,1,2,1,0,Ireland
+126,2,Mark Adair,4,0,26,0,6.50,12,1,1,4,0,Ireland
+127,3,Barry McCarthy,4,0,33,1,8.25,9,3,1,1,0,Ireland
+128,4,Curtis Campher,2,0,28,0,14.00,2,4,1,0,0,Ireland
+129,5,Simi Singh,2,0,11,1,5.50,4,1,0,0,0,Ireland
+130,6,Gareth Delany,4,0,16,3,4.00,12,1,0,1,0,Ireland
+131,1,Obed McCoy,3.3,0,27,0,7.71,11,2,2,0,0,West Indies
+132,2,Akeal Hosein,4,0,38,1,9.50,5,2,2,0,0,West Indies
+133,3,Alzarri Joseph,4,0,39,0,9.75,9,3,2,1,0,West Indies
+134,4,Odean Smith,2,0,23,0,11.50,4,3,1,0,1,West Indies
+135,5,Jason Holder,4,0,23,0,5.75,7,1,0,0,0,West Indies
+136,1,Tendai Chatara,4,1,14,2,3.50,14,1,0,0,0,Zimbabwe
+137,2,Richard Ngarava,4,0,28,2,7.00,12,4,0,1,1,Zimbabwe
+138,3,Blessing Muzarabani,4,0,34,1,8.50,9,5,0,0,2,Zimbabwe
+139,4,Sean Williams,3,0,19,0,6.33,4,1,0,0,0,Zimbabwe
+140,5,Sikandar Raza,4,0,20,1,5.00,10,0,0,2,0,Zimbabwe
+141,6,Wessly Madhevere,1,0,7,0,7.00,1,0,0,0,0,Zimbabwe
+142,1,Brad Wheal,4,0,26,1,6.50,12,4,0,0,0,Scotland
+143,2,Josh Davey,3,0,16,2,5.33,8,1,0,0,1,Scotland
+144,3,Safyaan Sharif,2.3,0,23,0,9.20,4,3,0,0,1,Scotland
+145,4,Mark Watt,4,0,19,1,4.75,9,1,0,0,0,Scotland
+146,5,Michael Leask,4,0,36,1,9.00,4,2,1,0,0,Scotland
+147,6,Calum MacLeod,1,0,11,0,11.00,0,0,1,0,0,Scotland
+148,1,Mitchell Starc,4,0,36,0,9.00,5,3,1,0,0,Australia
+149,2,Josh Hazlewood,4,0,41,2,10.25,8,5,1,1,0,Australia
+150,3,Pat Cummins,4,0,46,0,11.50,8,4,2,2,0,Australia
+151,4,Marcus Stoinis,4,0,38,0,9.50,3,1,2,1,0,Australia
+152,5,Adam Zampa,4,0,39,1,9.75,4,2,2,1,0,Australia
+153,1,Trent Boult,4,0,24,2,6.00,13,2,1,1,0,New Zealand
+154,2,Tim Southee,2.1,0,6,3,2.76,10,1,0,0,0,New Zealand
+155,3,Mitchell Santner,4,0,31,3,7.75,10,2,2,0,0,New Zealand
+156,4,Lockie Ferguson,3,0,20,1,6.66,9,2,1,0,0,New Zealand
+157,5,Ish Sodhi,4,0,29,1,7.25,8,2,1,1,0,New Zealand
+158,1,Ben Stokes,4,0,19,2,4.75,14,2,0,1,0,England
+159,2,Chris Woakes,4,0,24,1,6.00,15,2,1,1,0,England
+160,3,Mark Wood,4,0,23,2,5.75,14,2,1,0,0,England
+161,4,Sam Curran,3.4,0,10,5,2.72,16,1,0,1,0,England
+162,5,Adil Rashid,4,0,32,0,8.00,4,1,1,0,0,England
+163,1,Fazalhaq Farooqi,4,0,24,1,6.00,15,2,1,3,0,Afghanistan
+164,2,Azmatullah Omarzai,1.1,0,11,0,9.42,2,1,0,3,0,Afghanistan
+165,3,Mujeeb Ur Rahman,4,0,22,1,5.50,10,1,0,0,0,Afghanistan
+166,4,Rashid Khan,4,0,17,1,4.25,10,0,0,0,0,Afghanistan
+167,5,Fareed Ahmad,2,0,23,1,11.50,2,2,0,1,0,Afghanistan
+168,6,Mohammad Nabi,3,0,16,1,5.33,6,0,0,0,0,Afghanistan
+169,1,Binura Fernando,4,0,27,1,6.75,10,3,0,1,0,Sri Lanka
+170,2,Lahiru Kumara,2,0,12,1,6.00,6,2,0,0,0,Sri Lanka
+171,3,Maheesh Theekshana,4,0,19,2,4.75,8,1,0,0,0,Sri Lanka
+172,4,Chamika Karunaratne,4,0,29,1,7.25,7,2,1,0,0,Sri Lanka
+173,5,Wanindu Hasaranga de Silva,4,0,25,2,6.25,6,0,1,0,0,Sri Lanka
+174,6,Dhananjaya de Silva,2,0,13,1,6.50,3,1,0,0,0,Sri Lanka
+175,1,Josh Little,4,0,45,0,11.25,5,4,1,1,0,Ireland
+176,2,Mark Adair,2,0,16,0,8.00,2,1,0,0,0,Ireland
+177,3,Barry McCarthy,2,0,16,0,8.00,4,0,1,0,0,Ireland
+178,4,Gareth Delany,4,0,28,1,7.00,8,3,0,2,0,Ireland
+179,5,Curtis Campher,1,0,8,0,8.00,2,1,0,0,0,Ireland
+180,6,Simi Singh,2,0,20,0,10.00,3,0,2,0,0,Ireland
+181,1,Bhuvneshwar Kumar,4,0,22,1,5.50,17,1,1,3,0,India
+182,2,Arshdeep Singh,4,0,32,3,8.00,10,3,1,1,0,India
+183,3,Mohammed Shami,4,0,25,1,6.25,14,4,0,1,0,India
+184,4,Hardik Pandya,4,0,30,3,7.50,10,4,0,0,0,India
+185,5,Ravichandran Ashwin,3,0,23,0,7.66,5,0,1,1,0,India
+186,6,Axar Patel,1,0,21,0,21.00,2,0,3,0,0,India
+187,1,Shaheen Shah Afridi,4,0,34,0,8.50,7,4,0,1,0,Pakistan
+188,2,Naseem Shah,4,0,23,1,5.75,10,1,0,0,0,Pakistan
+189,3,Haris Rauf,4,0,36,2,9.00,11,2,2,1,0,Pakistan
+190,4,Shadab Khan,4,0,21,0,5.25,10,2,0,0,0,Pakistan
+191,5,Mohammad Nawaz,4,0,42,2,10.50,8,0,4,2,1,Pakistan
+192,1,Fred Klaassen,4,0,33,1,8.25,10,5,0,3,0,Netherlands
+193,2,Colin Ackermann,1,0,4,0,4.00,2,0,0,0,0,Netherlands
+194,3,Paul van Meekeren,4,0,21,2,5.25,10,1,0,0,0,Netherlands
+195,4,Bas de Leede,3,0,29,2,9.66,9,3,1,3,0,Netherlands
+196,5,Tim Pringle,2,0,10,1,5.00,4,0,0,0,0,Netherlands
+197,6,Shariz Ahmad,3,0,27,1,9.00,5,1,2,0,0,Netherlands
+198,7,Logan van Beek,3,0,12,1,4.00,7,0,0,1,0,Netherlands
+199,1,Taskin Ahmed,4,0,25,4,6.25,16,5,0,0,0,Bangladesh
+200,2,Hasan Mahmud,4,1,15,2,3.75,16,2,0,0,0,Bangladesh
+201,3,Shakib Al Hasan,4,0,32,1,8.00,6,0,2,1,0,Bangladesh
+202,4,Mustafizur Rahman,4,0,20,0,5.00,14,2,0,2,0,Bangladesh
+203,5,Soumya Sarkar,3,0,29,1,9.66,5,2,1,1,0,Bangladesh
+204,6,Mosaddek Hossain,1,0,14,0,14.00,0,0,1,0,1,Bangladesh
+205,1,Kagiso Rabada,2,0,20,0,10.00,4,2,1,0,0,South Africa
+206,2,Wayne Parnell,2,0,6,1,3.00,9,1,0,0,0,South Africa
+207,3,Lungi Ngidi,2,0,20,2,10.00,6,2,1,2,0,South Africa
+208,4,Keshav Maharaj,1,0,10,0,10.00,1,1,0,0,0,South Africa
+209,5,Anrich Nortje,2,0,10,1,5.00,5,0,0,0,0,South Africa
+210,1,Tendai Chatara,1,0,23,0,23.00,0,4,1,0,0,Zimbabwe
+211,2,Richard Ngarava,1,0,17,0,17.00,2,4,0,0,1,Zimbabwe
+212,3,Sikandar Raza,1,0,11,0,11.00,1,0,0,0,1,Zimbabwe
+213,1,Josh Hazlewood,4,0,26,1,6.50,13,3,0,3,0,Australia
+214,2,Pat Cummins,4,0,36,1,9.00,12,5,1,2,0,Australia
+215,3,Mitchell Starc,4,0,23,1,5.75,13,1,0,1,0,Australia
+216,4,Ashton Agar,4,0,25,1,6.25,8,1,0,1,0,Australia
+217,5,Marcus Stoinis,2,0,17,0,8.50,1,1,0,1,0,Australia
+218,6,Mitchell Marsh,1,0,14,0,14.00,1,1,1,0,0,Australia
+219,7,Glenn Maxwell,1,0,5,1,5.00,2,0,0,0,0,Australia
+220,1,Binura Fernando,0.5,0,5,0,6.00,2,0,0,0,0,Sri Lanka
+221,2,Dhananjaya de Silva,2.1,0,18,1,8.30,4,1,1,0,0,Sri Lanka
+222,3,Lahiru Kumara,3.3,0,22,0,6.28,15,0,1,3,0,Sri Lanka
+223,4,Chamika Karunaratne,3,0,20,1,6.66,6,1,0,1,0,Sri Lanka
+224,5,Maheesh Theekshana,3,0,23,1,7.66,11,0,3,1,0,Sri Lanka
+225,6,Wanindu Hasaranga de Silva,3,0,53,0,17.66,0,3,5,0,0,Sri Lanka
+226,7,Dasun Shanaka,1,0,10,0,10.00,2,2,0,0,0,Sri Lanka
+227,1,Ben Stokes,2.2,0,8,1,3.42,7,0,0,0,0,England
+228,2,Chris Woakes,3,0,41,0,13.66,4,6,1,2,0,England
+229,3,Mark Wood,4,0,34,3,8.50,13,4,1,2,0,England
+230,4,Sam Curran,3,0,31,2,10.33,7,1,2,0,0,England
+231,5,Adil Rashid,4,0,24,0,6.00,6,1,0,0,0,England
+232,6,Liam Livingstone,3,0,17,3,5.66,5,1,0,0,0,England
+233,1,Josh Little,3,0,16,2,5.33,11,2,0,2,0,Ireland
+234,2,Mark Adair,2,0,10,0,5.00,5,0,0,0,0,Ireland
+235,3,Barry McCarthy,3,0,20,1,6.66,7,1,0,3,0,Ireland
+236,4,Fionn Hand,2,0,17,1,8.50,6,1,0,4,0,Ireland
+237,5,Gareth Delany,3.3,0,33,0,9.42,5,3,1,1,0,Ireland
+238,6,George Dockrell,1,0,5,1,5.00,2,0,0,0,0,Ireland
+239,1,Taskin Ahmed,3,0,46,1,15.33,7,6,2,0,3,Bangladesh
+240,2,Mehidy Hasan Miraz,3,0,32,0,10.66,4,2,2,0,0,Bangladesh
+241,3,Hasan Mahmud,4,0,36,1,9.00,11,3,2,2,0,Bangladesh
+242,4,Mustafizur Rahman,4,0,25,0,6.25,7,1,1,0,0,Bangladesh
+243,5,Mosaddek Hossain,2,0,16,0,8.00,5,1,1,0,0,Bangladesh
+244,6,Shakib Al Hasan,3,0,33,2,11.00,7,1,3,0,1,Bangladesh
+245,7,Afif Hossain,1,0,11,1,11.00,1,2,0,0,0,Bangladesh
+246,1,Kagiso Rabada,3,0,24,1,8.00,8,1,2,1,0,South Africa
+247,2,Wayne Parnell,2,0,18,0,9.00,3,0,1,1,0,South Africa
+248,3,Anrich Nortje,3.3,0,10,4,2.85,16,1,0,0,0,South Africa
+249,4,Keshav Maharaj,4,0,24,1,6.00,6,1,0,0,0,South Africa
+250,5,Tabraiz Shamsi,4,0,20,3,5.00,12,0,1,2,0,South Africa
+251,1,Fred Klaassen,4,0,33,1,8.25,9,2,1,2,0,Netherlands
+252,2,Tim Pringle,4,0,30,0,7.50,6,3,0,0,0,Netherlands
+253,3,Paul van Meekeren,4,0,32,1,8.00,9,3,1,0,0,Netherlands
+254,4,Bas de Leede,3,0,33,0,11.00,6,5,1,1,0,Netherlands
+255,5,Logan van Beek,4,0,45,0,11.25,3,2,3,0,0,Netherlands
+256,6,Shariz Ahmad,1,0,5,0,5.00,2,0,0,0,0,Netherlands
+257,1,Bhuvneshwar Kumar,3,2,9,2,3.00,14,1,0,0,0,India
+258,2,Arshdeep Singh,4,0,37,2,9.25,9,6,0,1,1,India
+259,3,Mohammed Shami,4,0,27,1,6.75,10,2,0,0,0,India
+260,4,Axar Patel,4,0,18,2,4.50,11,0,0,0,0,India
+261,5,Hardik Pandya,1,0,9,0,9.00,1,0,0,1,0,India
+262,6,Ravichandran Ashwin,4,0,21,2,5.25,13,1,1,1,0,India
+263,1,Shaheen Shah Afridi,4,0,29,0,7.25,9,3,0,0,0,Pakistan
+264,2,Naseem Shah,4,0,34,0,8.50,7,4,0,2,0,Pakistan
+265,3,Mohammad Wasim,4,0,24,4,6.00,16,2,1,4,0,Pakistan
+266,4,Haris Rauf,4,1,12,1,3.00,15,0,0,0,0,Pakistan
+267,5,Shadab Khan,4,0,23,3,5.75,8,1,0,0,0,Pakistan
+268,1,Richard Ngarava,4,0,24,0,6.00,15,2,1,2,0,Zimbabwe
+269,2,Blessing Muzarabani,4,0,18,1,4.50,11,1,0,0,0,Zimbabwe
+270,3,Brad Evans,4,0,25,2,6.25,12,2,1,0,0,Zimbabwe
+271,4,Sikandar Raza,4,0,25,3,6.25,13,2,1,2,0,Zimbabwe
+272,5,Luke Jongwe,1,0,10,1,10.00,2,2,0,0,0,Zimbabwe
+273,6,Sean Williams,2,0,15,0,7.50,1,0,0,1,0,Zimbabwe
+274,7,Ryan Burl,1,0,7,0,7.00,0,0,0,0,0,Zimbabwe
+275,1,Maheesh Theekshana,4,0,35,1,8.75,7,2,2,1,0,Sri Lanka
+276,2,Kasun Rajitha,4,0,23,2,5.75,16,3,0,1,2,Sri Lanka
+277,3,Dhananjaya de Silva,2,0,14,1,7.00,4,1,0,0,0,Sri Lanka
+278,4,Wanindu Hasaranga de Silva,4,0,22,1,5.50,9,1,0,0,0,Sri Lanka
+279,5,Lahiru Kumara,3,0,37,1,12.33,2,2,2,2,1,Sri Lanka
+280,6,Chamika Karunaratne,3,0,34,0,11.33,5,3,1,1,0,Sri Lanka
+281,1,Tim Southee,4,1,12,1,3.00,18,0,1,1,0,New Zealand
+282,2,Trent Boult,4,0,13,4,3.25,18,1,0,1,0,New Zealand
+283,3,Lockie Ferguson,4,0,35,1,8.75,11,4,1,3,0,New Zealand
+284,4,Mitchell Santner,4,0,21,2,5.25,13,3,0,0,0,New Zealand
+285,5,Ish Sodhi,3.2,0,21,2,6.30,11,2,1,1,0,New Zealand
+286,1,Richard Ngarava,4,0,24,2,6.00,11,2,0,2,0,Zimbabwe
+287,2,Blessing Muzarabani,2,0,13,2,6.50,8,3,0,0,0,Zimbabwe
+288,3,Tendai Chatara,3,0,18,0,6.00,7,1,0,0,0,Zimbabwe
+289,4,Sikandar Raza,4,0,35,1,8.75,2,2,1,0,0,Zimbabwe
+290,5,Brad Evans,3,0,32,0,10.66,2,3,1,1,0,Zimbabwe
+291,6,Wessly Madhevere,2,0,18,0,9.00,0,1,0,0,0,Zimbabwe
+292,7,Sean Williams,2,0,10,1,5.00,4,0,0,1,0,Zimbabwe
+293,1,Taskin Ahmed,4,1,19,3,4.75,15,3,0,0,0,Bangladesh
+294,2,Hasan Mahmud,4,0,36,0,9.00,8,5,0,3,0,Bangladesh
+295,3,Mosaddek Hossain,4,0,34,2,8.50,11,3,2,0,1,Bangladesh
+296,4,Mustafizur Rahman,4,0,15,2,3.75,11,0,0,0,0,Bangladesh
+297,5,Shakib Al Hasan,4,0,34,0,8.50,5,3,0,0,0,Bangladesh
+298,1,Shaheen Shah Afridi,4,0,19,1,4.75,13,1,0,1,0,Pakistan
+299,2,Naseem Shah,4,0,11,1,2.75,15,0,0,0,0,Pakistan
+300,3,Mohammad Wasim,3,0,15,2,5.00,10,1,0,1,0,Pakistan
+301,4,Haris Rauf,3,0,10,1,3.33,11,1,0,0,0,Pakistan
+302,5,Shadab Khan,4,0,22,3,5.50,11,2,0,0,0,Pakistan
+303,6,Mohammad Nawaz,2,0,11,0,5.50,3,0,0,0,0,Pakistan
+304,1,Fred Klaassen,3,0,26,0,8.66,4,3,0,0,0,Netherlands
+305,2,Paul van Meekeren,4,0,19,1,4.75,15,2,0,0,0,Netherlands
+306,3,Brandon Glover,2.5,0,22,2,7.76,9,3,0,0,0,Netherlands
+307,4,Tim Pringle,1,0,12,0,12.00,1,2,0,0,0,Netherlands
+308,5,Logan van Beek,2,0,9,0,4.50,5,0,0,0,0,Netherlands
+309,6,Roelof van der Merwe,1,0,7,0,7.00,1,0,0,0,0,Netherlands
+310,1,Wayne Parnell,4,1,15,3,3.75,16,0,1,0,0,South Africa
+311,2,Kagiso Rabada,4,0,26,0,6.50,13,2,1,1,0,South Africa
+312,3,Lungi Ngidi,4,0,29,4,7.25,10,3,1,0,0,South Africa
+313,4,Anrich Nortje,4,0,23,1,5.75,12,1,1,0,0,South Africa
+314,5,Keshav Maharaj,3,0,28,0,9.33,5,3,1,0,0,South Africa
+315,6,Aiden Markram,1,0,5,0,5.00,1,0,0,0,0,South Africa
+316,1,Bhuvneshwar Kumar,3.4,0,21,0,5.72,13,2,1,0,0,India
+317,2,Arshdeep Singh,4,0,25,2,6.25,13,4,0,1,0,India
+318,3,Mohammed Shami,4,0,13,1,3.25,15,1,0,0,0,India
+319,4,Hardik Pandya,4,0,29,1,7.25,8,3,0,0,0,India
+320,5,Ravichandran Ashwin,4,0,43,1,10.75,5,1,4,0,0,India
+321,1,Josh Little,4,0,21,2,5.25,13,2,0,2,0,Ireland
+322,2,Mark Adair,4,0,59,0,14.75,6,7,2,6,0,Ireland
+323,3,Barry McCarthy,4,0,29,3,7.25,7,2,0,1,0,Ireland
+324,4,Gareth Delany,3,0,29,0,9.66,10,2,2,2,0,Ireland
+325,5,Fionn Hand,1,0,15,0,15.00,2,0,2,1,0,Ireland
+326,6,George Dockrell,4,0,24,0,6.00,8,0,1,0,0,Ireland
+327,1,Josh Hazlewood,3,0,24,0,8.00,8,1,2,1,0,Australia
+328,2,Pat Cummins,4,0,28,2,7.00,14,3,1,1,0,Australia
+329,3,Glenn Maxwell,2.1,0,14,2,6.46,6,2,0,0,0,Australia
+330,4,Mitchell Starc,4,1,43,2,10.75,11,8,0,2,1,Australia
+331,5,Adam Zampa,4,0,19,2,4.75,9,1,0,0,0,Australia
+332,6,Marcus Stoinis,1,0,6,1,6.00,2,0,0,0,0,Australia
+333,1,Kasun Rajitha,4,0,31,1,7.75,11,2,1,1,1,Sri Lanka
+334,2,Pramod Madushan,3,0,24,0,8.00,7,2,1,0,0,Sri Lanka
+335,3,Lahiru Kumara,4,0,30,2,7.50,12,2,1,4,0,Sri Lanka
+336,4,Maheesh Theekshana,4,0,33,0,8.25,5,1,1,1,0,Sri Lanka
+337,5,Wanindu Hasaranga de Silva,4,0,13,3,3.25,12,0,0,0,0,Sri Lanka
+338,6,Dhananjaya de Silva,1,0,9,1,9.00,1,1,0,0,0,Sri Lanka
+339,1,Fazalhaq Farooqi,3.3,1,22,0,6.28,11,3,0,1,0,Afghanistan
+340,2,Mujeeb Ur Rahman,4,0,24,2,6.00,12,3,0,0,0,Afghanistan
+341,3,Fareed Ahmad,2,0,25,0,12.50,3,3,1,1,0,Afghanistan
+342,4,Rashid Khan,4,0,31,2,7.75,10,2,1,1,0,Afghanistan
+343,5,Azmatullah Omarzai,2,0,17,0,8.50,2,1,0,1,0,Afghanistan
+344,6,Mohammad Nabi,2,0,16,0,8.00,2,0,1,0,0,Afghanistan
+345,7,Gulbadin Naib,1,0,12,0,12.00,1,2,0,0,0,Afghanistan
+346,1,Trent Boult,4,0,40,0,10.00,8,4,1,1,0,New Zealand
+347,2,Tim Southee,4,0,43,1,10.75,9,3,3,0,0,New Zealand
+348,3,Mitchell Santner,4,0,25,1,6.25,8,2,0,0,0,New Zealand
+349,4,Lockie Ferguson,4,0,45,2,11.25,6,4,2,0,1,New Zealand
+350,5,Ish Sodhi,4,0,23,1,5.75,10,2,0,0,0,New Zealand
+351,1,Moeen Ali,1,0,4,0,4.00,3,0,0,0,0,England
+352,2,Chris Woakes,4,0,33,2,8.25,9,1,2,1,0,England
+353,3,Adil Rashid,4,0,33,0,8.25,6,0,2,0,0,England
+354,4,Sam Curran,4,0,26,2,6.50,9,0,0,2,0,England
+355,5,Mark Wood,3,0,25,1,8.33,8,2,1,1,0,England
+356,6,Liam Livingstone,3,0,26,0,8.66,4,3,0,0,0,England
+357,7,Ben Stokes,1,0,10,1,10.00,2,2,0,0,0,England
+358,1,Fred Klaassen,4,0,17,1,4.25,17,0,1,2,0,Netherlands
+359,2,Paul van Meekeren,4,0,29,3,7.25,13,3,0,2,0,Netherlands
+360,3,Brandon Glover,4,1,29,2,7.25,15,2,2,2,0,Netherlands
+361,4,Logan van Beek,2.2,0,17,2,7.28,8,1,1,1,0,Netherlands
+362,5,Bas de Leede,4,0,14,2,3.50,11,0,0,0,0,Netherlands
+363,6,Roelof van der Merwe,1,0,8,0,8.00,2,1,0,0,0,Netherlands
+364,1,Tendai Chatara,4,0,22,0,5.50,14,4,0,0,0,Zimbabwe
+365,2,Richard Ngarava,4,0,18,2,4.50,15,1,1,0,0,Zimbabwe
+366,3,Blessing Muzarabani,4,0,23,2,5.75,14,2,1,1,0,Zimbabwe
+367,4,Sean Williams,3,0,21,0,7.00,8,2,1,0,0,Zimbabwe
+368,5,Sikandar Raza,1,0,6,0,6.00,0,0,0,0,0,Zimbabwe
+369,6,Luke Jongwe,2,0,25,1,12.50,3,4,0,3,1,Zimbabwe
+370,1,Taskin Ahmed,4,0,15,0,3.75,16,2,0,0,0,Bangladesh
+371,2,Shoriful Islam,4,0,57,0,14.25,7,4,4,2,2,Bangladesh
+372,3,Hasan Mahmud,4,0,47,3,11.75,7,6,2,0,1,Bangladesh
+373,4,Mustafizur Rahman,4,0,31,0,7.75,9,4,0,0,0,Bangladesh
+374,5,Shakib Al Hasan,4,0,33,2,8.25,3,2,0,0,0,Bangladesh
+375,1,Bhuvneshwar Kumar,3,0,27,0,9.00,7,2,2,0,0,India
+376,2,Arshdeep Singh,4,0,38,2,9.50,10,5,1,0,0,India
+377,3,Mohammed Shami,3,0,25,1,8.33,7,2,1,0,0,India
+378,4,Axar Patel,1,0,6,0,6.00,2,0,0,0,0,India
+379,5,Ravichandran Ashwin,2,0,19,0,9.50,4,3,0,1,0,India
+380,6,Hardik Pandya,3,0,28,2,9.33,8,1,3,0,0,India
+381,1,Wayne Parnell,4,0,31,1,7.75,10,3,1,0,0,South Africa
+382,2,Kagiso Rabada,4,0,44,1,11.00,7,4,2,0,0,South Africa
+383,3,Lungi Ngidi,4,0,32,1,8.00,11,3,1,2,0,South Africa
+384,4,Anrich Nortje,4,0,41,4,10.25,11,1,4,0,1,South Africa
+385,5,Tabraiz Shamsi,4,0,36,1,9.00,8,2,2,2,0,South Africa
+386,1,Shaheen Shah Afridi,3,0,14,3,4.66,11,2,0,0,0,Pakistan
+387,2,Naseem Shah,3,0,19,1,6.33,10,1,1,1,0,Pakistan
+388,3,Haris Rauf,3,0,44,1,14.66,2,7,1,1,0,Pakistan
+389,4,Mohammad Wasim,2,0,13,1,6.50,3,1,0,0,0,Pakistan
+390,5,Shadab Khan,2,0,16,2,8.00,5,1,1,0,0,Pakistan
+391,6,Mohammad Nawaz,1,0,2,0,2.00,4,0,0,0,0,Pakistan
+392,1,Josh Little,4,0,22,3,5.50,10,2,0,1,0,Ireland
+393,2,Mark Adair,4,0,39,1,9.75,9,3,1,3,0,Ireland
+394,3,Barry McCarthy,4,0,46,0,11.50,4,4,2,0,0,Ireland
+395,4,Gareth Delany,4,0,30,2,7.50,11,3,1,1,0,Ireland
+396,5,Fionn Hand,2,0,22,0,11.00,2,2,1,0,0,Ireland
+397,6,George Dockrell,2,0,18,0,9.00,4,2,0,2,0,Ireland
+398,1,Trent Boult,4,0,38,0,9.50,8,4,1,0,0,New Zealand
+399,2,Tim Southee,4,0,29,2,7.25,8,2,1,0,0,New Zealand
+400,3,Lockie Ferguson,4,0,22,3,5.50,10,1,0,0,0,New Zealand
+401,4,Mitchell Santner,4,0,26,2,6.50,12,3,1,0,0,New Zealand
+402,5,Ish Sodhi,4,0,31,2,7.75,10,0,2,1,0,New Zealand
+403,1,Fazalhaq Farooqi,4,0,29,2,7.25,13,4,1,0,0,Afghanistan
+404,2,Mujeeb Ur Rahman,4,0,42,1,10.50,5,4,1,1,0,Afghanistan
+405,3,Naveen-ul-Haq,4,0,21,3,5.25,11,2,0,0,0,Afghanistan
+406,4,Gulbadin Naib,3,0,31,0,10.33,6,3,2,0,0,Afghanistan
+407,5,Rashid Khan,4,0,29,1,7.25,9,2,1,1,0,Afghanistan
+408,6,Mohammad Nabi,1,0,14,0,14.00,1,1,1,0,0,Afghanistan
+409,1,Josh Hazlewood,4,0,33,2,8.25,13,2,3,0,0,Australia
+410,2,Pat Cummins,4,0,22,0,5.50,12,2,0,0,0,Australia
+411,3,Marcus Stoinis,2,0,26,0,13.00,2,2,1,2,0,Australia
+412,4,Kane Richardson,4,0,48,1,12.00,4,3,3,1,0,Australia
+413,5,Adam Zampa,4,0,22,2,5.50,11,1,0,0,0,Australia
+414,6,Cameron Green,2,0,13,0,6.50,7,1,1,0,0,Australia
+415,1,Ben Stokes,3,0,24,1,8.00,8,1,2,0,0,England
+416,2,Chris Woakes,3,0,24,1,8.00,5,3,0,1,0,England
+417,3,Mark Wood,3,0,26,3,8.66,8,1,2,1,0,England
+418,4,Sam Curran,4,0,27,1,6.75,10,2,1,0,0,England
+419,5,Adil Rashid,4,0,16,1,4.00,11,0,0,0,0,England
+420,6,Liam Livingstone,2,0,16,0,8.00,2,0,1,0,0,England
+421,7,Moeen Ali,1,0,5,0,5.00,1,0,0,0,0,England
+422,1,Maheesh Theekshana,4,0,22,0,5.50,11,1,0,1,0,Sri Lanka
+423,2,Kasun Rajitha,3,0,40,0,13.33,4,5,1,2,0,Sri Lanka
+424,3,Lahiru Kumara,3.4,0,24,2,6.54,11,3,0,0,1,Sri Lanka
+425,4,Wanindu Hasaranga de Silva,4,0,23,2,5.75,11,1,1,0,0,Sri Lanka
+426,5,Dhananjaya de Silva,4,0,24,2,6.00,7,1,0,0,0,Sri Lanka
+427,6,Charith Asalanka,1,0,8,0,8.00,1,1,0,0,0,Sri Lanka
+428,1,Wayne Parnell,4,0,32,0,8.00,10,2,2,1,0,South Africa
+429,2,Kagiso Rabada,3,0,37,0,12.33,6,7,0,0,0,South Africa
+430,3,Lungi Ngidi,3,0,35,0,11.66,3,5,0,0,0,South Africa
+431,4,Anrich Nortje,4,0,10,1,2.50,14,0,0,0,0,South Africa
+432,5,Keshav Maharaj,4,0,27,2,6.75,12,1,2,0,0,South Africa
+433,6,Aiden Markram,2,0,16,1,8.00,3,0,1,1,0,South Africa
+434,1,Fred Klaassen,4,0,20,2,5.00,15,3,0,0,0,Netherlands
+435,2,Paul van Meekeren,3,0,33,1,11.00,5,1,2,1,1,Netherlands
+436,3,Colin Ackermann,3,0,16,0,5.33,6,1,0,0,0,Netherlands
+437,4,Roelof van der Merwe,2,0,19,0,9.50,2,2,0,0,0,Netherlands
+438,5,Brandon Glover,2,0,9,3,4.50,5,0,0,1,0,Netherlands
+439,6,Logan van Beek,3,0,23,0,7.66,4,1,1,0,0,Netherlands
+440,7,Bas de Leede,3,0,25,2,8.33,4,1,0,1,2,Netherlands
+441,1,Shaheen Shah Afridi,4,0,22,4,5.50,13,2,1,0,0,Pakistan
+442,2,Naseem Shah,3,0,15,0,5.00,9,2,0,0,0,Pakistan
+443,3,Mohammad Wasim,2,0,19,0,9.50,5,1,1,1,0,Pakistan
+444,4,Haris Rauf,4,0,21,1,5.25,11,2,0,0,0,Pakistan
+445,5,Shadab Khan,4,0,30,2,7.50,8,3,0,0,0,Pakistan
+446,6,Iftikhar Ahmed,3,0,15,1,5.00,9,2,0,0,0,Pakistan
+447,1,Taskin Ahmed,3,0,26,0,8.66,10,1,2,0,1,Bangladesh
+448,2,Nasum Ahmed,4,0,14,1,3.50,13,0,0,2,0,Bangladesh
+449,3,Shakib Al Hasan,4,0,35,1,8.75,6,5,0,0,0,Bangladesh
+450,4,Mustafizur Rahman,4,0,21,1,5.25,8,0,0,0,0,Bangladesh
+451,5,Ebadot Hossain,3.1,0,25,1,7.89,7,1,1,0,1,Bangladesh
+452,1,Richard Ngarava,4,1,44,1,11.00,12,2,4,1,1,Zimbabwe
+453,2,Tendai Chatara,4,0,34,0,8.50,5,3,1,0,0,Zimbabwe
+454,3,Blessing Muzarabani,4,0,50,1,12.50,5,8,0,1,0,Zimbabwe
+455,4,Wellington Masakadza,2,0,12,0,6.00,5,1,0,1,0,Zimbabwe
+456,5,Ryan Burl,1,0,14,0,14.00,1,1,1,0,0,Zimbabwe
+457,6,Sikandar Raza,3,0,18,1,6.00,5,0,1,0,0,Zimbabwe
+458,7,Sean Williams,2,0,9,2,4.50,6,0,0,2,0,Zimbabwe
+459,1,Bhuvneshwar Kumar,3,1,11,1,3.66,14,1,0,1,0,India
+460,2,Arshdeep Singh,2,0,9,1,4.50,9,1,0,2,0,India
+461,3,Mohammed Shami,2,0,14,2,7.00,7,1,1,0,0,India
+462,4,Hardik Pandya,3,0,16,2,5.33,10,1,0,2,1,India
+463,5,Ravichandran Ashwin,4,0,22,3,5.50,13,3,0,1,0,India
+464,6,Axar Patel,3.2,0,40,1,12.00,4,5,1,0,0,India
+465,1,Shaheen Shah Afridi,4,0,24,2,6.00,11,2,0,0,0,Pakistan
+466,2,Naseem Shah,4,0,30,0,7.50,8,3,0,0,0,Pakistan
+467,3,Haris Rauf,4,0,32,0,8.00,6,2,0,0,0,Pakistan
+468,4,Mohammad Wasim,2,0,15,0,7.50,3,0,1,0,0,Pakistan
+469,5,Shadab Khan,4,0,33,0,8.25,7,3,1,0,0,Pakistan
+470,6,Mohammad Nawaz,2,0,12,1,6.00,2,0,0,0,0,Pakistan
+471,1,Trent Boult,4,0,33,2,8.25,9,5,0,0,0,New Zealand
+472,2,Tim Southee,3.1,0,24,0,7.57,7,3,0,2,0,New Zealand
+473,3,Lockie Ferguson,4,0,37,0,9.25,7,4,1,1,0,New Zealand
+474,4,Mitchell Santner,4,0,26,1,6.50,6,1,0,0,0,New Zealand
+475,5,Ish Sodhi,4,0,26,0,6.50,4,1,0,0,0,New Zealand
+476,1,Ben Stokes,2,0,18,0,9.00,5,2,1,0,0,England
+477,2,Chris Woakes,3,0,24,1,8.00,5,1,1,2,0,England
+478,3,Sam Curran,4,0,42,0,10.50,9,5,2,0,0,England
+479,4,Adil Rashid,4,0,20,1,5.00,8,1,0,0,0,England
+480,5,Liam Livingstone,3,0,21,0,7.00,7,3,0,0,0,England
+481,6,Chris Jordan,4,0,43,3,10.75,8,3,3,1,0,England
+482,1,Bhuvneshwar Kumar,2,0,25,0,12.50,4,3,1,1,0,India
+483,2,Arshdeep Singh,2,0,15,0,7.50,4,2,0,1,0,India
+484,3,Axar Patel,4,0,30,0,7.50,10,2,2,0,0,India
+485,4,Mohammed Shami,3,0,39,0,13.00,7,4,3,0,0,India
+486,5,Ravichandran Ashwin,2,0,27,0,13.50,1,1,2,1,0,India
+487,6,Hardik Pandya,3,0,34,0,11.33,5,1,2,0,0,India
+488,1,Ben Stokes,4,0,32,1,8.00,6,1,0,2,1,England
+489,2,Chris Woakes,3,0,26,0,8.66,7,2,1,2,0,England
+490,3,Sam Curran,4,0,12,3,3.00,15,0,0,0,0,England
+491,4,Adil Rashid,4,1,22,2,5.50,10,1,0,1,0,England
+492,5,Chris Jordan,4,0,27,2,6.75,9,3,0,0,0,England
+493,6,Liam Livingstone,1,0,16,0,16.00,1,1,1,1,0,England
+494,1,Shaheen Shah Afridi,2.1,0,13,1,6.00,6,1,0,0,0,Pakistan
+495,2,Naseem Shah,4,0,30,0,7.50,15,3,1,1,0,Pakistan
+496,3,Haris Rauf,4,0,23,2,5.75,13,3,0,1,0,Pakistan
+497,4,Shadab Khan,4,0,20,1,5.00,10,1,0,0,0,Pakistan
+498,5,Mohammad Wasim,4,0,38,1,9.50,5,5,0,2,0,Pakistan
+499,6,Iftikhar Ahmed,0.5,0,13,0,15.60,0,1,1,0,0,Pakistan

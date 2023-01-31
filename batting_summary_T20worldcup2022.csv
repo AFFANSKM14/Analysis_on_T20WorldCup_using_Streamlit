@@ -1,0 +1,700 @@
+,batting_position,Batter,Dismissal,Runs,Balls,Minutes,4s,6s,SR,Country
+0,1,Michael van Lingen,c Pramod Madushan b Chameera,3,6,7,0,0,50.00,Namibia
+1,2,Divan la Cock,c Shanaka b Pramod Madushan,9,9,15,1,0,100.00,Namibia
+2,3,Jan Nicol Loftie-Eaton,c (WK)Mendis b Karunaratne,20,12,18,1,2,166.66,Namibia
+3,4,Stephan Baard,c DM de Silva b Pramod Madushan,26,24,49,2,0,108.33,Namibia
+4,5,Gerhard Erasmus(c),c Gunathilaka b PWH de Silva,20,24,30,0,0,83.33,Namibia
+5,6,Jan Frylinck,run out (Gunathilaka/(WK)Mendis),44,28,44,4,0,157.14,Namibia
+6,7,David Wiese,c (WK)Mendis b Theekshana,0,1,4,0,0,0.00,Namibia
+7,8,JJ Smit,not out ,31,16,29,2,2,193.75,Namibia
+8,1,Pathum Nissanka,c Smit b Shikongo,9,10,16,1,0,90.00,Sri Lanka
+9,2,Kusal Mendis(WK),c (WK)Green b Wiese,6,6,8,0,0,100.00,Sri Lanka
+10,3,Dhananjaya de Silva,c Shikongo b Frylinck,12,11,25,1,0,109.09,Sri Lanka
+11,4,Danushka Gunathilaka,c (WK)Green b Shikongo,0,1,2,0,0,0.00,Sri Lanka
+12,5,Bhanuka Rajapaksa,c la Cock b Scholtz,20,21,39,2,0,95.23,Sri Lanka
+13,6,Dasun Shanaka(c),c (WK)Green b Frylinck,29,23,37,2,1,126.08,Sri Lanka
+14,7,Wanindu Hasaranga de Silva,c Loftie-Eaton b Scholtz,4,8,9,0,0,50.00,Sri Lanka
+15,8,Chamika Karunaratne,c Baard b Smit,5,8,15,0,0,62.50,Sri Lanka
+16,9,Pramod Madushan,run out (van Lingen/(WK)Green),0,0,4,0,0,-,Sri Lanka
+17,10,Dushmantha Chameera,c Erasmus b Wiese,8,15,20,0,0,53.33,Sri Lanka
+18,11,Maheesh Theekshana,not out ,11,11,14,0,1,100.00,Sri Lanka
+19,1,Chirag Suri,c (WK)Edwards b van der Merwe,12,20,28,1,0,60.00,United Arab Emirates
+20,2,Muhammad Waseem,c Pringle b Klaassen,41,47,71,1,2,87.23,United Arab Emirates
+21,3,Kashif Daud, b Pringle,15,14,19,0,1,107.14,United Arab Emirates
+22,4,Vriitya Aravind(WK),c Klaassen b de Leede,18,21,37,0,0,85.71,United Arab Emirates
+23,5,Zawar Farid,run out (Ackermann/(WK)Edwards),2,4,8,0,0,50.00,United Arab Emirates
+24,6,Basil Hameed,c van der Merwe b de Leede,4,4,7,1,0,100.00,United Arab Emirates
+25,7,Chundangapoyil Rizwan(c), b de Leede,1,2,7,0,0,50.00,United Arab Emirates
+26,8,Aayan Afzal Khan,c Cooper b Klaassen,5,7,8,0,0,71.42,United Arab Emirates
+27,9,Karthik Meiyappan,not out ,0,0,4,0,0,-,United Arab Emirates
+28,10,Junaid Siddique,not out ,0,1,1,0,0,0.00,United Arab Emirates
+29,1,Vikramjit Singh, b Basil Hameed,10,7,8,2,0,142.85,Netherlands
+30,2,Max O'Dowd, b Junaid Siddique,23,18,25,3,1,127.77,Netherlands
+31,3,Bas de Leede,c Rizwan b Meiyappan,14,18,37,1,0,77.77,Netherlands
+32,4,Colin Ackermann,c Junaid Siddique b Aayan Afzal Khan,17,19,33,1,0,89.47,Netherlands
+33,5,Tom Cooper,lbw b Junaid Siddique,8,16,22,0,0,50.00,Netherlands
+34,6,Scott Edwards(c)(WK),not out ,16,19,42,0,0,84.21,Netherlands
+35,7,Roelof van der Merwe, b Junaid Siddique,0,2,4,0,0,0.00,Netherlands
+36,8,Tim Pringle, b Zahoor Khan,15,16,26,0,0,93.75,Netherlands
+37,9,Logan van Beek,not out ,4,4,7,0,0,100.00,Netherlands
+38,1,George Munsey,not out ,66,53,106,9,0,124.52,Scotland
+39,2,Michael Jones, b Holder,20,17,36,3,0,117.64,Scotland
+40,3,Matthew Cross(WK),c Brooks b Holder,3,5,10,0,0,60.00,Scotland
+41,4,Richie Berrington(c),c Mayers b Joseph,16,14,21,0,1,114.28,Scotland
+42,5,Calum MacLeod,c King b Smith,23,14,15,4,0,164.28,Scotland
+43,6,Michael Leask, b Joseph,4,6,8,0,0,66.66,Scotland
+44,7,Chris Greaves,not out ,16,11,19,2,0,145.45,Scotland
+45,1,Kyle Mayers,c Munsey b Davey,20,13,12,3,1,153.84,West Indies
+46,2,Evin Lewis,c Jones b Wheal,14,13,30,1,1,107.69,West Indies
+47,3,Brandon King, b Watt,17,15,24,3,0,113.33,West Indies
+48,4,Nicholas Pooran(c)(WK), b Leask,5,9,14,0,0,55.55,West Indies
+49,5,Shamarh Brooks,c Leask b Wheal,4,9,24,0,0,44.44,West Indies
+50,6,Rovman Powell,c MacLeod b Leask,5,6,12,0,0,83.33,West Indies
+51,7,Jason Holder,c Greaves b Sharif,38,33,37,4,1,115.15,West Indies
+52,8,Akeal Hosein,run out ((WK)Cross/Leask),1,1,4,0,0,100.00,West Indies
+53,9,Alzarri Joseph,c (WK)Cross b Watt,0,1,4,0,0,0.00,West Indies
+54,10,Odean Smith,c Greaves b Watt,5,8,14,0,0,62.50,West Indies
+55,11,Obed McCoy,not out ,2,3,10,0,0,66.66,West Indies
+56,1,Regis Chakabva(WK),c (WK)Tucker b Little,0,2,3,0,0,0.00,Zimbabwe
+57,2,Craig Ervine(c),st (WK)Tucker b Simi Singh,9,12,28,1,0,75.00,Zimbabwe
+58,3,Wessly Madhevere,c Delany b Little,22,19,22,4,0,115.78,Zimbabwe
+59,4,Sean Williams,c Tector b Simi Singh,12,11,24,0,1,109.09,Zimbabwe
+60,5,Sikandar Raza, b Adair,82,48,72,5,5,170.83,Zimbabwe
+61,6,Milton Shumba,c Little b Adair,16,14,26,1,0,114.28,Zimbabwe
+62,7,Ryan Burl,c Adair b Little,1,4,9,0,0,25.00,Zimbabwe
+63,8,Luke Jongwe,not out ,20,10,14,3,0,200.00,Zimbabwe
+64,1,Paul Stirling, b Ngarava,0,2,3,0,0,0.00,Ireland
+65,2,Andy Balbirnie(c),c Ervine b Muzarabani,3,4,20,0,0,75.00,Ireland
+66,3,Lorcan Tucker(WK), b Ngarava,11,11,10,2,0,100.00,Ireland
+67,4,Harry Tector,c Ervine b Muzarabani,1,4,5,0,0,25.00,Ireland
+68,5,Curtis Campher, b Williams,27,22,41,1,0,122.72,Ireland
+69,6,George Dockrell, b Sikandar Raza,24,20,25,3,0,120.00,Ireland
+70,7,Gareth Delany,c Shumba b Chatara,24,20,23,1,1,120.00,Ireland
+71,8,Mark Adair,c Sikandar Raza b Muzarabani,9,10,18,0,1,90.00,Ireland
+72,9,Simi Singh, b Chatara,0,1,1,0,0,0.00,Ireland
+73,10,Barry McCarthy,not out ,22,16,23,1,2,137.50,Ireland
+74,11,Josh Little,not out ,7,11,17,1,0,63.63,Ireland
+75,1,Michael van Lingen,c de Leede b Ackermann,20,19,20,3,0,105.26,Namibia
+76,2,Divan la Cock,c de Leede b Pringle,0,2,5,0,0,0.00,Namibia
+77,3,Stephan Baard,c Klaassen b van der Merwe,19,22,46,0,0,86.36,Namibia
+78,4,Jan Nicol Loftie-Eaton,c (WK)Edwards b van Meekeren,0,2,3,0,0,0.00,Namibia
+79,5,Jan Frylinck,c van Meekeren b de Leede,43,48,63,1,1,89.58,Namibia
+80,6,Gerhard Erasmus(c), b de Leede,16,18,37,0,0,88.88,Namibia
+81,7,David Wiese,not out ,11,5,8,1,0,220.00,Namibia
+82,8,JJ Smit,not out ,5,4,6,1,0,125.00,Namibia
+83,1,Max O'Dowd,run out (Erasmus),35,35,59,1,1,100.00,Netherlands
+84,2,Vikramjit Singh,c Loftie-Eaton b Scholtz,39,31,37,3,2,125.80,Netherlands
+85,3,Bas de Leede,not out ,30,30,51,2,0,100.00,Netherlands
+86,4,Tom Cooper,c van Lingen b Smit,6,6,7,1,0,100.00,Netherlands
+87,5,Colin Ackermann,c Erasmus b Smit,0,2,2,0,0,0.00,Netherlands
+88,6,Scott Edwards(c)(WK),c Loftie-Eaton b Frylinck,1,5,5,0,0,20.00,Netherlands
+89,7,Tim Pringle,not out ,8,9,14,0,0,88.88,Netherlands
+90,1,Pathum Nissanka,c Basil Hameed b Zahoor Khan,74,60,105,6,2,123.33,Sri Lanka
+91,2,Kusal Mendis(WK),lbw b Aryan Lakra,18,13,24,2,0,138.46,Sri Lanka
+92,3,Dhananjaya de Silva,run out (Muhammad Waseem/Aayan Afzal Khan),33,21,30,3,1,157.14,Sri Lanka
+93,4,Bhanuka Rajapaksa,c Kashif Daud b Meiyappan,5,8,19,0,0,62.50,Sri Lanka
+94,5,Charith Asalanka,c (WK)Aravind b Meiyappan,0,1,2,0,0,0.00,Sri Lanka
+95,6,Dasun Shanaka(c), b Meiyappan,0,1,2,0,0,0.00,Sri Lanka
+96,7,Wanindu Hasaranga de Silva,c Basil Hameed b Aayan Afzal Khan,2,3,3,0,0,66.66,Sri Lanka
+97,8,Chamika Karunaratne,c Kashif Daud b Zahoor Khan,8,11,22,1,0,72.72,Sri Lanka
+98,9,Pramod Madushan,not out ,1,1,4,0,0,100.00,Sri Lanka
+99,10,Dushmantha Chameera,not out ,1,1,2,0,0,100.00,Sri Lanka
+100,1,Muhammad Waseem, b Chameera,2,4,13,0,0,50.00,United Arab Emirates
+101,2,Chirag Suri, b Pramod Madushan,14,19,31,3,0,73.68,United Arab Emirates
+102,3,Aryan Lakra, b Chameera,1,3,4,0,0,33.33,United Arab Emirates
+103,4,Chundangapoyil Rizwan(c),c Rajapaksa b Chameera,1,3,8,0,0,33.33,United Arab Emirates
+104,5,Vriitya Aravind(WK),lbw b PWH de Silva,9,18,26,1,0,50.00,United Arab Emirates
+105,6,Basil Hameed,c DM de Silva b Shanaka,2,6,14,0,0,33.33,United Arab Emirates
+106,7,Aayan Afzal Khan, b PWH de Silva,19,21,33,1,0,90.47,United Arab Emirates
+107,8,Kashif Daud,lbw b PWH de Silva,0,4,8,0,0,0.00,United Arab Emirates
+108,9,Karthik Meiyappan,st (WK)Mendis b Theekshana,4,8,11,0,0,50.00,United Arab Emirates
+109,10,Junaid Siddique,c Nissanka b Theekshana,18,16,22,1,1,112.50,United Arab Emirates
+110,11,Zahoor Khan,not out ,1,1,15,0,0,100.00,United Arab Emirates
+111,1,George Munsey,lbw b Adair,1,2,9,0,0,50.00,Scotland
+112,2,Michael Jones,c Adair b Little,86,55,95,6,4,156.36,Scotland
+113,3,Matthew Cross(WK),c McCarthy b Campher,28,21,33,5,0,133.33,Scotland
+114,4,Richie Berrington(c),c Dockrell b Campher,37,27,39,3,1,137.03,Scotland
+115,5,Michael Leask,not out ,17,13,19,2,0,130.76,Scotland
+116,6,Calum MacLeod,run out ((WK)Tucker),0,3,6,0,0,0.00,Scotland
+117,1,Paul Stirling,c (WK)Cross b Sharif,8,10,22,1,0,80.00,Ireland
+118,2,Andy Balbirnie(c),c Jones b Wheal,14,12,15,2,0,116.66,Ireland
+119,3,Lorcan Tucker(WK),c Davey b Watt,20,17,28,2,0,117.64,Ireland
+120,4,Harry Tector,c Greaves b Leask,14,16,23,1,0,87.50,Ireland
+121,5,Curtis Campher,not out ,72,32,48,7,2,225.00,Ireland
+122,6,George Dockrell,not out ,39,27,42,4,1,144.44,Ireland
+123,1,Kyle Mayers,c (WK)Chakabva b Muzarabani,13,12,17,2,0,108.33,West Indies
+124,2,Johnson Charles,run out (Munyonga/Williams),45,36,60,3,2,125.00,West Indies
+125,3,Evin Lewis,c Shumba b Sikandar Raza,15,18,28,1,0,83.33,West Indies
+126,4,Nicholas Pooran(c)(WK),c & b Williams,7,9,10,0,0,77.77,West Indies
+127,5,Rovman Powell,c Ngarava b Muzarabani,28,21,40,1,2,133.33,West Indies
+128,6,Shamarh Brooks,lbw b Sikandar Raza,0,3,5,0,0,0.00,West Indies
+129,7,Jason Holder,c & b Sikandar Raza,4,3,3,0,0,133.33,West Indies
+130,8,Akeal Hosein,not out ,23,18,31,2,0,127.77,West Indies
+131,9,Odean Smith,not out ,1,2,2,0,0,50.00,West Indies
+132,1,Wessly Madhevere,c Lewis b Holder,27,19,37,3,1,142.10,Zimbabwe
+133,2,Regis Chakabva(c)(WK), b Joseph,13,9,14,3,0,144.44,Zimbabwe
+134,3,Tony Munyonga, b Joseph,2,6,12,0,0,33.33,Zimbabwe
+135,4,Sean Williams,c (WK)Pooran b McCoy,1,2,4,0,0,50.00,Zimbabwe
+136,5,Sikandar Raza,c Powell b Smith,14,8,12,1,1,175.00,Zimbabwe
+137,6,Milton Shumba,c Brooks b Hosein,2,9,20,0,0,22.22,Zimbabwe
+138,7,Ryan Burl,lbw b Holder,17,19,30,3,0,89.47,Zimbabwe
+139,8,Luke Jongwe, b Joseph,29,22,31,3,1,131.81,Zimbabwe
+140,9,Richard Ngarava, b Joseph,2,6,11,0,0,33.33,Zimbabwe
+141,10,Tendai Chatara, b Holder,3,8,12,0,0,37.50,Zimbabwe
+142,11,Blessing Muzarabani,not out ,1,4,4,0,0,25.00,Zimbabwe
+143,1,Pathum Nissanka, b van Meekeren,14,21,25,0,1,66.66,Sri Lanka
+144,2,Kusal Mendis(WK),c sub (LV van Beek) b van der Gugten,79,44,94,5,5,179.54,Sri Lanka
+145,3,Dhananjaya de Silva,lbw b van Meekeren,0,1,2,0,0,0.00,Sri Lanka
+146,4,Charith Asalanka,c (WK)Edwards b de Leede,31,30,38,3,0,103.33,Sri Lanka
+147,5,Bhanuka Rajapaksa,c Pringle b de Leede,19,13,18,2,0,146.15,Sri Lanka
+148,6,Dasun Shanaka(c),c Ackermann b Klaassen,8,5,9,0,1,160.00,Sri Lanka
+149,7,Wanindu Hasaranga de Silva,not out ,5,4,8,0,0,125.00,Sri Lanka
+150,8,Chamika Karunaratne,not out ,2,2,4,0,0,100.00,Sri Lanka
+151,1,Max O'Dowd,not out ,71,53,99,6,3,133.96,Netherlands
+152,2,Vikramjit Singh,c Shanaka b Theekshana,7,14,18,0,0,50.00,Netherlands
+153,3,Bas de Leede,c (WK)Mendis b Kumara,14,10,12,1,1,140.00,Netherlands
+154,4,Colin Ackermann,c & b PWH de Silva,0,1,4,0,0,0.00,Netherlands
+155,5,Tom Cooper, b Theekshana,16,19,23,2,0,84.21,Netherlands
+156,6,Scott Edwards(c)(WK), b Fernando,21,15,16,3,0,140.00,Netherlands
+157,7,Tim Pringle,run out (DM de Silva),2,4,8,0,0,50.00,Netherlands
+158,8,Timm van der Gugten, b PWH de Silva,0,1,2,0,0,0.00,Netherlands
+159,9,Fred Klaassen, b PWH de Silva,3,3,5,0,0,100.00,Netherlands
+160,10,Paul van Meekeren,run out (Shanaka),0,0,4,0,0,-,Netherlands
+161,11,Roelof van der Merwe,not out ,0,1,14,0,0,0.00,Netherlands
+162,1,Muhammad Waseem,c Trumpelmann b Shikongo,50,41,66,1,3,121.95,United Arab Emirates
+163,2,Vriitya Aravind(WK),c van Lingen b Scholtz,21,32,34,2,0,65.62,United Arab Emirates
+164,3,Chundangapoyil Rizwan(c),not out ,43,29,55,3,1,148.27,United Arab Emirates
+165,4,Alishan Sharafu,c (WK)Green b Wiese,4,4,10,0,0,100.00,United Arab Emirates
+166,5,Basil Hameed,not out ,25,14,13,2,2,178.57,United Arab Emirates
+167,1,Michael van Lingen,c Sharafu b Basil Hameed,10,8,14,1,0,125.00,Namibia
+168,2,Stephan Baard,c Ahmed Raza b Junaid Siddique,4,6,9,1,0,66.66,Namibia
+169,3,Jan Nicol Loftie-Eaton,lbw b Basil Hameed,1,6,17,0,0,16.66,Namibia
+170,4,Gerhard Erasmus(c), b Meiyappan,16,18,23,2,0,88.88,Namibia
+171,5,Jan Frylinck, b Zahoor Khan,14,17,33,1,0,82.35,Namibia
+172,6,JJ Smit,run out (Meiyappan/Ahmed Raza),3,3,3,0,0,100.00,Namibia
+173,7,David Wiese,c Sharafu b Muhammad Waseem,55,36,65,3,3,152.77,Namibia
+174,8,Zane Green(WK), b Zahoor Khan,2,3,3,0,0,66.66,Namibia
+175,9,Ruben Trumpelmann,not out ,25,24,43,1,1,104.16,Namibia
+176,10,Bernard Scholtz,not out ,1,1,-,0,0,100.00,Namibia
+177,1,Kyle Mayers,c Tector b McCarthy,1,5,12,0,0,20.00,West Indies
+178,2,Johnson Charles,c Campher b Simi Singh,24,18,22,3,1,133.33,West Indies
+179,3,Evin Lewis,c Adair b Delany,13,18,42,0,0,72.22,West Indies
+180,4,Brandon King,not out ,62,48,80,6,1,129.16,West Indies
+181,5,Nicholas Pooran(c)(WK),c Tector b Delany,13,11,16,0,1,118.18,West Indies
+182,6,Rovman Powell,c Tector b Delany,6,8,12,1,0,75.00,West Indies
+183,7,Odean Smith,not out ,19,12,18,1,2,158.33,West Indies
+184,1,Paul Stirling,not out ,66,48,79,6,2,137.50,Ireland
+185,2,Andy Balbirnie(c),c Mayers b Hosein,37,23,34,3,3,160.86,Ireland
+186,3,Lorcan Tucker(WK),not out ,45,35,46,2,2,128.57,Ireland
+187,1,George Munsey,c Shumba b Ngarava,54,51,74,7,0,105.88,Scotland
+188,2,Michael Jones,c Sikandar Raza b Chatara,4,5,6,1,0,80.00,Scotland
+189,3,Matthew Cross(WK),c Madhevere b Ngarava,1,7,15,0,0,14.28,Scotland
+190,4,Richie Berrington(c),c Shumba b Sikandar Raza,13,15,24,0,0,86.66,Scotland
+191,5,Calum MacLeod,c Jongwe b Chatara,25,26,46,1,0,96.15,Scotland
+192,6,Michael Leask, b Muzarabani,12,9,11,2,0,133.33,Scotland
+193,7,Chris Greaves,not out ,3,7,10,0,0,42.85,Scotland
+194,8,Josh Davey,not out ,4,3,3,0,0,133.33,Scotland
+195,1,Regis Chakabva(WK),lbw b Wheal,4,3,3,1,0,133.33,Zimbabwe
+196,2,Craig Ervine(c),c MacLeod b Watt,58,54,79,6,0,107.40,Zimbabwe
+197,3,Wessly Madhevere, b Davey,0,5,8,0,0,0.00,Zimbabwe
+198,4,Sean Williams,c Wheal b Leask,7,12,28,0,0,58.33,Zimbabwe
+199,5,Sikandar Raza,c (WK)Cross b Davey,40,23,34,3,2,173.91,Zimbabwe
+200,6,Milton Shumba,not out ,11,11,16,0,0,100.00,Zimbabwe
+201,7,Ryan Burl,not out ,9,5,7,1,0,180.00,Zimbabwe
+202,1,Finn Allen, b Hazlewood,42,16,24,5,3,262.50,New Zealand
+203,2,Devon Conway(WK),not out ,92,58,106,7,2,158.62,New Zealand
+204,3,Kane Williamson(c),lbw b Zampa,23,23,48,1,1,100.00,New Zealand
+205,4,Glenn Phillips,c & b Hazlewood,12,10,16,2,0,120.00,New Zealand
+206,5,James Neesham,not out ,26,13,19,0,2,200.00,New Zealand
+207,1,David Warner, b Southee,5,6,7,1,0,83.33,Australia
+208,2,Aaron Finch(c),c Williamson b Santner,13,11,20,1,1,118.18,Australia
+209,3,Mitchell Marsh,c Neesham b Southee,16,12,17,2,1,133.33,Australia
+210,4,Glenn Maxwell, b Sodhi,28,20,47,3,1,140.00,Australia
+211,5,Marcus Stoinis,c Phillips b Santner,7,14,16,0,0,50.00,Australia
+212,6,Tim David,c Neesham b Santner,11,8,12,0,1,137.50,Australia
+213,7,Matthew Wade(WK),c (WK)Conway b Ferguson,2,4,10,0,0,50.00,Australia
+214,8,Pat Cummins,c (WK)Conway b Southee,21,18,27,2,1,116.66,Australia
+215,9,Mitchell Starc, b Boult,4,7,13,0,0,57.14,Australia
+216,10,Adam Zampa, b Boult,0,2,3,0,0,0.00,Australia
+217,11,Josh Hazlewood,not out ,1,1,6,0,0,100.00,Australia
+218,1,Hazratullah Zazai,c Livingstone b Stokes,7,17,31,1,0,41.17,Afghanistan
+219,2,Rahmanullah Gurbaz(WK),c (WK)Buttler b Wood,10,9,13,0,1,111.11,Afghanistan
+220,3,Ibrahim Zadran,c Ali b Curran,32,32,41,3,1,100.00,Afghanistan
+221,4,Usman Ghani,c Livingstone b Curran,30,30,60,3,0,100.00,Afghanistan
+222,5,Najibullah Zadran,c Rashid b Stokes,13,11,15,0,1,118.18,Afghanistan
+223,6,Mohammad Nabi(c),c (WK)Buttler b Wood,3,5,7,0,0,60.00,Afghanistan
+224,7,Azmatullah Omarzai,c Stokes b Curran,8,6,11,1,0,133.33,Afghanistan
+225,8,Rashid Khan,c Hales b Curran,0,1,2,0,0,0.00,Afghanistan
+226,9,Mujeeb Ur Rahman,c & b Woakes,0,1,3,0,0,0.00,Afghanistan
+227,10,Fareed Ahmad,not out ,2,4,7,0,0,50.00,Afghanistan
+228,11,Fazalhaq Farooqi,c Malan b Curran,0,2,3,0,0,0.00,Afghanistan
+229,1,Jos Buttler(c)(WK),c Mujeeb Ur Rahman b Fazalhaq Farooqi,18,18,25,3,0,100.00,England
+230,2,Alex Hales,c Fazalhaq Farooqi b Fareed Ahmad,19,20,41,0,1,95.00,England
+231,3,Dawid Malan,c Mohammad Nabi b Mujeeb Ur Rahman,18,30,40,0,0,60.00,England
+232,4,Ben Stokes, b Mohammad Nabi,2,4,11,0,0,50.00,England
+233,5,Liam Livingstone,not out ,29,21,34,3,0,138.09,England
+234,6,Harry Brook,c Ibrahim Zadran b Rashid Khan,7,6,9,0,0,116.66,England
+235,7,Moeen Ali,not out ,8,10,13,0,0,80.00,England
+236,1,Paul Stirling,c Rajapaksa b DM de Silva,34,25,45,4,1,136.00,Ireland
+237,2,Andy Balbirnie(c), b Kumara,1,5,7,0,0,20.00,Ireland
+238,3,Lorcan Tucker(WK), b Theekshana,10,11,20,1,0,90.90,Ireland
+239,4,Harry Tector,c Shanaka b Fernando,45,42,59,2,1,107.14,Ireland
+240,5,Curtis Campher,c Asalanka b Karunaratne,2,4,6,0,0,50.00,Ireland
+241,6,George Dockrell, b Theekshana,14,16,25,0,0,87.50,Ireland
+242,7,Gareth Delany,c Karunaratne b PWH de Silva,9,6,10,1,0,150.00,Ireland
+243,8,Mark Adair,c Karunaratne b PWH de Silva,0,1,5,0,0,0.00,Ireland
+244,9,Simi Singh,not out ,7,8,9,1,0,87.50,Ireland
+245,10,Barry McCarthy,not out ,2,2,7,0,0,100.00,Ireland
+246,1,Kusal Mendis(WK),not out ,68,43,68,5,3,158.13,Sri Lanka
+247,2,Dhananjaya de Silva,c (WK)Tucker b Delany,31,25,35,2,1,124.00,Sri Lanka
+248,3,Charith Asalanka,not out ,31,22,33,2,0,140.90,Sri Lanka
+249,1,Mohammad Rizwan(WK),c Kumar b Arshdeep Singh,4,12,25,1,0,33.33,Pakistan
+250,2,Babar Azam(c),lbw b Arshdeep Singh,0,1,10,0,0,0.00,Pakistan
+251,3,Shan Masood,not out ,52,42,101,5,0,123.80,Pakistan
+252,4,Iftikhar Ahmed,lbw b Mohammed Shami,51,34,43,2,4,150.00,Pakistan
+253,5,Shadab Khan,c Yadav b Pandya,5,6,6,1,0,83.33,Pakistan
+254,6,Haider Ali,c Yadav b Pandya,2,4,6,0,0,50.00,Pakistan
+255,7,Mohammad Nawaz,c (WK)Karthik b Pandya,9,6,12,2,0,150.00,Pakistan
+256,8,Asif Ali,c (WK)Karthik b Arshdeep Singh,2,3,6,0,0,66.66,Pakistan
+257,9,Shaheen Shah Afridi,c & b Kumar,16,8,17,1,1,200.00,Pakistan
+258,10,Haris Rauf,not out ,6,4,3,0,1,150.00,Pakistan
+259,1,KL Rahul, b Naseem Shah,4,8,13,0,0,50.00,India
+260,2,Rohit Sharma(c),c Iftikhar Ahmed b Haris Rauf,4,7,20,0,0,57.14,India
+261,3,Virat Kohli,not out ,82,53,98,6,4,154.71,India
+262,4,Suryakumar Yadav,c (WK)Mohammad Rizwan b Haris Rauf,15,10,11,2,0,150.00,India
+263,5,Axar Patel,run out (Babar Azam/(WK)Mohammad Rizwan),2,3,7,0,0,66.66,India
+264,6,Hardik Pandya,c Babar Azam b Mohammad Nawaz,40,37,61,1,2,108.10,India
+265,7,Dinesh Karthik(WK),st (WK)Mohammad Rizwan b Mohammad Nawaz,1,2,10,0,0,50.00,India
+266,8,Ravichandran Ashwin,not out ,1,1,2,0,0,100.00,India
+267,1,Najmul Hossain Shanto,c van Beek b Pringle,25,20,31,4,0,125.00,Bangladesh
+268,2,Soumya Sarkar,c de Leede b van Meekeren,14,14,24,2,0,100.00,Bangladesh
+269,3,Litton Das,c Cooper b van Beek,9,11,17,0,0,81.81,Bangladesh
+270,4,Shakib Al Hasan(c),c de Leede b Shariz Ahmad,7,9,14,0,0,77.77,Bangladesh
+271,5,Afif Hossain,c (WK)Edwards b de Leede,38,27,47,2,2,140.74,Bangladesh
+272,6,Yasir Ali, b van Meekeren,3,5,9,0,0,60.00,Bangladesh
+273,7,Nurul Hasan(WK),c van Meekeren b de Leede,13,18,28,0,0,72.22,Bangladesh
+274,8,Mosaddek Hossain,not out ,20,12,12,2,1,166.66,Bangladesh
+275,9,Taskin Ahmed,c van Beek b Klaassen,0,1,3,0,0,0.00,Bangladesh
+276,10,Hasan Mahmud,not out ,0,3,6,0,0,0.00,Bangladesh
+277,1,Vikramjit Singh,c Yasir Ali b Taskin Ahmed,0,1,4,0,0,0.00,Netherlands
+278,2,Max O'Dowd,run out (Afif Hossain/Shakib Al Hasan),8,8,21,0,1,100.00,Netherlands
+279,3,Bas de Leede,c (WK)Nurul Hasan b Taskin Ahmed,0,1,2,0,0,0.00,Netherlands
+280,4,Colin Ackermann,c Mosaddek Hossain b Taskin Ahmed,62,48,77,6,2,129.16,Netherlands
+281,5,Tom Cooper,run out (Najmul Hossain Shanto/(WK)Nurul Hasan),0,0,2,0,0,-,Netherlands
+282,6,Scott Edwards(c)(WK),c Hasan Mahmud b Shakib Al Hasan,16,24,33,1,0,66.66,Netherlands
+283,7,Tim Pringle, b Hasan Mahmud,1,6,5,0,0,16.66,Netherlands
+284,8,Logan van Beek,c Taskin Ahmed b Hasan Mahmud,2,5,9,0,0,40.00,Netherlands
+285,9,Shariz Ahmad,c Hasan Mahmud b Taskin Ahmed,9,8,9,1,0,112.50,Netherlands
+286,10,Fred Klaassen,not out ,7,6,20,0,0,116.66,Netherlands
+287,11,Paul van Meekeren,c Litton Das b Soumya Sarkar,24,14,16,3,1,171.42,Netherlands
+288,1,Regis Chakabva(WK),c (WK)de Kock b Ngidi,8,8,13,0,1,100.00,Zimbabwe
+289,2,Craig Ervine(c),c Ngidi b Parnell,2,6,11,0,0,33.33,Zimbabwe
+290,3,Sean Williams,run out (Miller),1,1,10,0,0,100.00,Zimbabwe
+291,4,Sikandar Raza,c (WK)de Kock b Ngidi,0,2,3,0,0,0.00,Zimbabwe
+292,5,Wessly Madhevere,not out ,35,18,37,4,1,194.44,Zimbabwe
+293,6,Milton Shumba,c (WK)de Kock b Nortje,18,20,32,2,0,90.00,Zimbabwe
+294,1,Quinton de Kock(WK),not out ,47,18,26,8,1,261.11,South Africa
+295,2,Temba Bavuma(c),not out ,2,2,26,0,0,100.00,South Africa
+296,1,Pathum Nissanka,run out (Marsh/(WK)Wade),40,45,65,2,0,88.88,Sri Lanka
+297,2,Kusal Mendis(WK),c Marsh b Cummins,5,6,9,1,0,83.33,Sri Lanka
+298,3,Dhananjaya de Silva,c Warner b Agar,26,23,47,3,0,113.04,Sri Lanka
+299,4,Charith Asalanka,not out ,38,25,45,3,2,152.00,Sri Lanka
+300,5,Bhanuka Rajapaksa,c Cummins b Starc,7,5,9,1,0,140.00,Sri Lanka
+301,6,Dasun Shanaka(c),c (WK)Wade b Maxwell,3,5,6,0,0,60.00,Sri Lanka
+302,7,Wanindu Hasaranga de Silva,c (WK)Wade b Hazlewood,1,4,8,0,0,25.00,Sri Lanka
+303,8,Chamika Karunaratne,not out ,14,7,16,2,0,200.00,Sri Lanka
+304,1,David Warner,c Shanaka b Theekshana,11,10,26,0,0,110.00,Australia
+305,2,Aaron Finch(c),not out ,31,42,89,0,1,73.80,Australia
+306,3,Mitchell Marsh,c Rajapaksa b DM de Silva,17,17,20,1,1,100.00,Australia
+307,4,Glenn Maxwell,c sub (KNA Bandara) b Karunaratne,23,12,21,2,2,191.66,Australia
+308,5,Marcus Stoinis,not out ,59,18,22,4,6,327.77,Australia
+309,1,Paul Stirling,c Curran b Wood,14,8,16,1,1,175.00,Ireland
+310,2,Andy Balbirnie(c),c Hales b Livingstone,62,47,74,5,2,131.91,Ireland
+311,3,Lorcan Tucker(WK),run out (Rashid),34,27,42,3,1,125.92,Ireland
+312,4,Harry Tector,c (WK)Buttler b Wood,0,2,3,0,0,0.00,Ireland
+313,5,Curtis Campher,c (WK)Buttler b Wood,18,11,22,3,0,163.63,Ireland
+314,6,George Dockrell, b Livingstone,0,1,2,0,0,0.00,Ireland
+315,7,Gareth Delany,not out ,12,10,22,1,0,120.00,Ireland
+316,8,Mark Adair,c Curran b Livingstone,4,4,8,0,0,100.00,Ireland
+317,9,Barry McCarthy, b Curran,3,3,4,0,0,100.00,Ireland
+318,10,Fionn Hand, b Curran,1,2,4,0,0,50.00,Ireland
+319,11,Josh Little,c (WK)Buttler b Stokes,0,1,3,0,0,0.00,Ireland
+320,1,Jos Buttler(c)(WK),c (WK)Tucker b Little,0,2,3,0,0,0.00,England
+321,2,Alex Hales,c Adair b Little,7,5,14,1,0,140.00,England
+322,3,Dawid Malan,c Hand b McCarthy,35,37,66,2,0,94.59,England
+323,4,Ben Stokes, b Hand,6,8,14,0,0,75.00,England
+324,5,Harry Brook,c Delany b Dockrell,18,21,30,1,0,85.71,England
+325,6,Moeen Ali,not out ,24,12,18,3,1,200.00,England
+326,7,Liam Livingstone,not out ,1,2,7,0,0,50.00,England
+327,1,Temba Bavuma(c),c (WK)Nurul Hasan b Taskin Ahmed,2,6,6,0,0,33.33,South Africa
+328,2,Quinton de Kock(WK),c Soumya Sarkar b Afif Hossain,63,38,77,7,3,165.78,South Africa
+329,3,Rilee Rossouw,c Litton Das b Shakib Al Hasan,109,56,90,7,8,194.64,South Africa
+330,4,Tristan Stubbs,c Litton Das b Shakib Al Hasan,7,7,9,1,0,100.00,South Africa
+331,5,Aiden Markram,c Soumya Sarkar b Hasan Mahmud,10,11,16,1,0,90.90,South Africa
+332,6,David Miller,not out ,2,4,8,0,0,50.00,South Africa
+333,7,Wayne Parnell,not out ,0,2,2,0,0,0.00,South Africa
+334,1,Najmul Hossain Shanto, b Nortje,9,9,15,1,0,100.00,Bangladesh
+335,2,Soumya Sarkar,c (WK)de Kock b Nortje,15,6,11,0,2,250.00,Bangladesh
+336,3,Litton Das,c Stubbs b Shamsi,34,31,57,1,1,109.67,Bangladesh
+337,4,Shakib Al Hasan(c),lbw b Nortje,1,4,11,0,0,25.00,Bangladesh
+338,5,Afif Hossain,c Parnell b Rabada,1,5,8,0,0,20.00,Bangladesh
+339,6,Mehidy Hasan Miraz,c Markram b Shamsi,11,13,17,0,0,84.61,Bangladesh
+340,7,Mosaddek Hossain,st (WK)de Kock b Maharaj,0,3,4,0,0,0.00,Bangladesh
+341,8,Nurul Hasan(WK),c Nortje b Shamsi,2,6,7,0,0,33.33,Bangladesh
+342,9,Taskin Ahmed, b Nortje,10,17,22,1,0,58.82,Bangladesh
+343,10,Hasan Mahmud,run out (Rabada),0,2,7,0,0,0.00,Bangladesh
+344,11,Mustafizur Rahman,not out ,9,3,8,0,1,300.00,Bangladesh
+345,1,KL Rahul,lbw b van Meekeren,9,12,12,1,0,75.00,India
+346,2,Rohit Sharma(c),c Ackermann b Klaassen,53,39,53,4,3,135.89,India
+347,3,Virat Kohli,not out ,62,44,79,3,2,140.90,India
+348,4,Suryakumar Yadav,not out ,51,25,38,7,1,204.00,India
+349,1,Vikramjit Singh, b Kumar,1,9,13,0,0,11.11,Netherlands
+350,2,Max O'Dowd, b Patel,16,10,22,3,0,160.00,Netherlands
+351,3,Bas de Leede,c Pandya b Patel,16,23,27,0,0,69.56,Netherlands
+352,4,Colin Ackermann,c Patel b Ashwin,17,21,31,1,0,80.95,Netherlands
+353,5,Tom Cooper,c sub (DJ Hooda) b Ashwin,9,12,12,0,0,75.00,Netherlands
+354,6,Scott Edwards(c)(WK),c sub (DJ Hooda) b Kumar,5,8,21,0,0,62.50,Netherlands
+355,7,Tim Pringle,c Kohli b Mohammed Shami,20,15,14,1,1,133.33,Netherlands
+356,8,Logan van Beek,c (WK)Karthik b Arshdeep Singh,3,5,11,0,0,60.00,Netherlands
+357,9,Shariz Ahmad,not out ,16,11,18,2,0,145.45,Netherlands
+358,10,Fred Klaassen,lbw b Arshdeep Singh,0,1,3,0,0,0.00,Netherlands
+359,11,Paul van Meekeren,not out ,14,6,9,3,0,233.33,Netherlands
+360,1,Wessly Madhevere,lbw b Mohammad Wasim,17,13,30,3,0,130.76,Zimbabwe
+361,2,Craig Ervine(c),c Mohammad Wasim b Haris Rauf,19,19,26,2,0,100.00,Zimbabwe
+362,3,Milton Shumba,c & b Shadab Khan,8,10,22,1,0,80.00,Zimbabwe
+363,4,Sean Williams, b Shadab Khan,31,28,37,3,0,110.71,Zimbabwe
+364,5,Sikandar Raza,c Haris Rauf b Mohammad Wasim,9,16,22,1,0,56.25,Zimbabwe
+365,6,Regis Chakabva(WK),c Babar Azam b Shadab Khan,0,1,2,0,0,0.00,Zimbabwe
+366,7,Ryan Burl,not out ,10,15,30,0,0,66.66,Zimbabwe
+367,8,Luke Jongwe, b Mohammad Wasim,0,1,2,0,0,0.00,Zimbabwe
+368,9,Brad Evans, b Mohammad Wasim,19,15,24,0,1,126.66,Zimbabwe
+369,10,Richard Ngarava,not out ,3,2,3,0,0,150.00,Zimbabwe
+370,1,Mohammad Rizwan(WK), b Muzarabani,14,16,23,1,1,87.50,Pakistan
+371,2,Babar Azam(c),c Burl b Evans,4,9,17,1,0,44.44,Pakistan
+372,3,Shan Masood,st (WK)Chakabva b Sikandar Raza,44,38,61,3,0,115.78,Pakistan
+373,4,Iftikhar Ahmed,c (WK)Chakabva b Jongwe,5,10,16,1,0,50.00,Pakistan
+374,5,Shadab Khan,c Williams b Sikandar Raza,17,14,27,0,1,121.42,Pakistan
+375,6,Haider Ali,lbw b Sikandar Raza,0,1,3,0,0,0.00,Pakistan
+376,7,Mohammad Nawaz,c Ervine b Evans,22,18,36,1,1,122.22,Pakistan
+377,8,Mohammad Wasim,not out ,12,13,29,2,0,92.30,Pakistan
+378,9,Shaheen Shah Afridi,run out (Sikandar Raza/(WK)Chakabva),1,1,3,0,0,100.00,Pakistan
+379,1,Finn Allen, b Theekshana,1,3,3,0,0,33.33,New Zealand
+380,2,Devon Conway(WK), b DM de Silva,1,4,14,0,0,25.00,New Zealand
+381,3,Kane Williamson(c),c (WK)Mendis b Rajitha,8,13,18,1,0,61.53,New Zealand
+382,4,Glenn Phillips,c Shanaka b Kumara,104,64,87,10,4,162.50,New Zealand
+383,5,Daryl Mitchell, b PWH de Silva,22,24,52,0,0,91.66,New Zealand
+384,6,James Neesham,c Shanaka b Rajitha,5,8,15,0,0,62.50,New Zealand
+385,7,Mitchell Santner,not out ,11,5,17,0,1,220.00,New Zealand
+386,8,Ish Sodhi,run out (sub [KNA Bandara]/(WK)Mendis),1,1,3,0,0,100.00,New Zealand
+387,9,Tim Southee,not out ,4,1,1,1,0,400.00,New Zealand
+388,1,Pathum Nissanka,lbw b Southee,0,5,5,0,0,0.00,Sri Lanka
+389,2,Kusal Mendis(WK),c (WK)Conway b Boult,4,3,9,1,0,133.33,Sri Lanka
+390,3,Dhananjaya de Silva, b Boult,0,3,8,0,0,0.00,Sri Lanka
+391,4,Charith Asalanka,c Allen b Boult,4,8,11,0,0,50.00,Sri Lanka
+392,5,Bhanuka Rajapaksa,c Williamson b Ferguson,34,22,38,3,2,154.54,Sri Lanka
+393,6,Chamika Karunaratne,c Boult b Santner,3,8,13,0,0,37.50,Sri Lanka
+394,7,Dasun Shanaka(c),c Mitchell b Boult,35,32,49,4,1,109.37,Sri Lanka
+395,8,Wanindu Hasaranga de Silva,c Williamson b Sodhi,4,6,6,1,0,66.66,Sri Lanka
+396,9,Maheesh Theekshana,c Neesham b Santner,0,3,5,0,0,0.00,Sri Lanka
+397,10,Kasun Rajitha,not out ,8,21,30,0,0,38.09,Sri Lanka
+398,11,Lahiru Kumara,st (WK)Conway b Sodhi,4,5,10,1,0,80.00,Sri Lanka
+399,1,Najmul Hossain Shanto,c Ervine b Sikandar Raza,71,55,77,7,1,129.09,Bangladesh
+400,2,Soumya Sarkar,c (WK)Chakabva b Muzarabani,0,2,9,0,0,0.00,Bangladesh
+401,3,Litton Das,c Chatara b Muzarabani,14,12,22,3,0,116.66,Bangladesh
+402,4,Shakib Al Hasan(c),c Muzarabani b Williams,23,20,32,1,0,115.00,Bangladesh
+403,5,Afif Hossain,lbw b Ngarava,29,19,40,1,1,152.63,Bangladesh
+404,6,Mosaddek Hossain,c Chatara b Ngarava,7,10,18,0,0,70.00,Bangladesh
+405,7,Nurul Hasan(WK),run out (Williams/(WK)Chakabva),1,1,5,0,0,100.00,Bangladesh
+406,8,Yasir Ali,not out ,1,1,3,0,0,100.00,Bangladesh
+407,1,Wessly Madhevere,c Mustafizur Rahman b Taskin Ahmed,4,3,1,1,0,133.33,Zimbabwe
+408,2,Craig Ervine(c),c (WK)Nurul Hasan b Taskin Ahmed,8,7,16,2,0,114.28,Zimbabwe
+409,3,Milton Shumba,c Shakib Al Hasan b Mustafizur Rahman,8,15,24,1,0,53.33,Zimbabwe
+410,4,Sean Williams,run out (Shakib Al Hasan),64,42,75,8,0,152.38,Zimbabwe
+411,5,Sikandar Raza,c Afif Hossain b Mustafizur Rahman,0,3,4,0,0,0.00,Zimbabwe
+412,6,Regis Chakabva(WK),c (WK)Nurul Hasan b Taskin Ahmed,15,19,24,0,0,78.94,Zimbabwe
+413,7,Ryan Burl,not out ,27,25,50,2,1,108.00,Zimbabwe
+414,8,Brad Evans,c Afif Hossain b Mosaddek Hossain,2,2,5,0,0,100.00,Zimbabwe
+415,9,Richard Ngarava,st (WK)Nurul Hasan b Mosaddek Hossain,6,3,6,0,1,200.00,Zimbabwe
+416,10,Blessing Muzarabani,not out ,0,2,6,0,0,0.00,Zimbabwe
+417,1,Stephan Myburgh,c Mohammad Wasim b Shaheen Shah Afridi,6,11,13,1,0,54.54,Netherlands
+418,2,Max O'Dowd,lbw b Shadab Khan,8,13,41,0,0,61.53,Netherlands
+419,3,Bas de Leede,retired hurt ,6,16,15,1,0,37.50,Netherlands
+420,4,Tom Cooper,c Mohammad Wasim b Shadab Khan,1,2,4,0,0,50.00,Netherlands
+421,5,Colin Ackermann,lbw b Shadab Khan,27,27,40,2,0,100.00,Netherlands
+422,6,Scott Edwards(c)(WK),c Iftikhar Ahmed b Naseem Shah,15,20,38,1,0,75.00,Netherlands
+423,7,Roelof van der Merwe, b Haris Rauf,5,6,12,0,0,83.33,Netherlands
+424,8,Tim Pringle, b Mohammad Wasim,5,8,15,0,0,62.50,Netherlands
+425,9,Logan van Beek,not out ,6,9,18,0,0,66.66,Netherlands
+426,10,Fred Klaassen, b Mohammad Wasim,0,1,1,0,0,0.00,Netherlands
+427,11,Paul van Meekeren,run out (Shadab Khan/(WK)Mohammad Rizwan),7,7,8,0,0,100.00,Netherlands
+428,1,Mohammad Rizwan(WK),c (WK)Edwards b van Meekeren,49,39,66,5,0,125.64,Pakistan
+429,2,Babar Azam(c),run out (van der Merwe),4,5,10,1,0,80.00,Pakistan
+430,3,Fakhar Zaman,c (WK)Edwards b Glover,20,16,27,3,0,125.00,Pakistan
+431,4,Shan Masood,c van Meekeren b Glover,12,16,35,0,0,75.00,Pakistan
+432,5,Iftikhar Ahmed,not out ,6,5,10,0,0,120.00,Pakistan
+433,6,Shadab Khan,not out ,4,2,2,1,0,200.00,Pakistan
+434,1,KL Rahul,c Markram b Ngidi,9,14,25,0,1,64.28,India
+435,2,Rohit Sharma(c),c & b Ngidi,15,14,22,1,1,107.14,India
+436,3,Virat Kohli,c Rabada b Ngidi,12,11,13,2,0,109.09,India
+437,4,Suryakumar Yadav,c Maharaj b Parnell,68,40,68,6,3,170.00,India
+438,5,Deepak Hooda,c (WK)de Kock b Nortje,0,3,4,0,0,0.00,India
+439,6,Hardik Pandya,c Rabada b Ngidi,2,3,6,0,0,66.66,India
+440,7,Dinesh Karthik(WK),c Rossouw b Parnell,6,15,33,0,0,40.00,India
+441,8,Ravichandran Ashwin,c Rabada b Parnell,7,11,15,0,0,63.63,India
+442,9,Bhuvneshwar Kumar,not out ,4,6,9,0,0,66.66,India
+443,10,Mohammed Shami,run out (Nortje),0,2,5,0,0,0.00,India
+444,11,Arshdeep Singh,not out ,2,1,2,0,0,200.00,India
+445,1,Quinton de Kock(WK),c Rahul b Arshdeep Singh,1,3,7,0,0,33.33,South Africa
+446,2,Temba Bavuma(c),c (WK)Karthik b Mohammed Shami,10,15,30,0,1,66.66,South Africa
+447,3,Rilee Rossouw,lbw b Arshdeep Singh,0,2,4,0,0,0.00,South Africa
+448,4,Aiden Markram,c Yadav b Pandya,52,41,72,6,1,126.82,South Africa
+449,5,David Miller,not out ,59,46,78,4,3,128.26,South Africa
+450,6,Tristan Stubbs,lbw b Ashwin,6,6,15,1,0,100.00,South Africa
+451,7,Wayne Parnell,not out ,2,5,11,0,0,40.00,South Africa
+452,1,David Warner,c Adair b McCarthy,3,7,13,0,0,42.85,Australia
+453,2,Aaron Finch(c),c Adair b McCarthy,63,44,87,5,3,143.18,Australia
+454,3,Mitchell Marsh,c (WK)Tucker b McCarthy,28,22,28,2,2,127.27,Australia
+455,4,Glenn Maxwell,c (WK)Tucker b Little,13,9,18,0,1,144.44,Australia
+456,5,Marcus Stoinis,c Dockrell b Little,35,25,41,3,1,140.00,Australia
+457,6,Tim David,not out ,15,10,15,2,0,150.00,Australia
+458,7,Matthew Wade(WK),not out ,7,3,7,1,0,233.33,Australia
+459,1,Paul Stirling,c Cummins b Maxwell,11,7,11,1,1,157.14,Ireland
+460,2,Andy Balbirnie(c), b Cummins,6,7,11,0,1,85.71,Ireland
+461,3,Lorcan Tucker(WK),not out ,71,48,81,9,1,147.91,Ireland
+462,4,Harry Tector,c sub (SPD Smith) b Maxwell,6,4,3,1,0,150.00,Ireland
+463,5,Curtis Campher, b Starc,0,1,5,0,0,0.00,Ireland
+464,6,George Dockrell, b Starc,0,4,4,0,0,0.00,Ireland
+465,7,Gareth Delany,c Maxwell b Stoinis,14,10,27,2,0,140.00,Ireland
+466,8,Mark Adair,st (WK)Wade b Zampa,11,11,13,1,0,100.00,Ireland
+467,9,Fionn Hand, b Zampa,6,6,10,1,0,100.00,Ireland
+468,10,Barry McCarthy,c sub (SPD Smith) b Cummins,3,7,16,0,0,42.85,Ireland
+469,11,Josh Little,run out (Marsh/Maxwell),1,5,6,0,0,20.00,Ireland
+470,1,Rahmanullah Gurbaz(WK), b Kumara,28,24,33,2,2,116.66,Afghanistan
+471,2,Usman Ghani,c Shanaka b PWH de Silva,27,27,54,2,1,100.00,Afghanistan
+472,3,Ibrahim Zadran,c Rajapaksa b Kumara,22,18,35,1,1,122.22,Afghanistan
+473,4,Najibullah Zadran,c PWH de Silva b DM de Silva,18,16,29,1,0,112.50,Afghanistan
+474,5,Gulbadin Naib,run out (Nissanka/(WK)Mendis),12,14,25,0,0,85.71,Afghanistan
+475,6,Mohammad Nabi(c),c Shanaka b Rajitha,13,8,15,1,0,162.50,Afghanistan
+476,7,Rashid Khan, b PWH de Silva,9,8,10,1,0,112.50,Afghanistan
+477,8,Azmatullah Omarzai,not out ,3,4,3,0,0,75.00,Afghanistan
+478,9,Mujeeb Ur Rahman,st (WK)Mendis b PWH de Silva,1,2,1,0,0,50.00,Afghanistan
+479,1,Pathum Nissanka, b Mujeeb Ur Rahman,10,10,10,2,0,100.00,Sri Lanka
+480,2,Kusal Mendis(WK),c (WK)Rahmanullah Gurbaz b Rashid Khan,25,27,33,2,1,92.59,Sri Lanka
+481,3,Dhananjaya de Silva,not out ,66,42,78,6,2,157.14,Sri Lanka
+482,4,Charith Asalanka,c Azmatullah Omarzai b Rashid Khan,19,18,27,1,0,105.55,Sri Lanka
+483,5,Bhanuka Rajapaksa,c (WK)Rahmanullah Gurbaz b Mujeeb Ur Rahman,18,14,24,3,0,128.57,Sri Lanka
+484,6,Dasun Shanaka(c),not out ,0,0,4,0,0,-,Sri Lanka
+485,1,Jos Buttler(c)(WK),run out (Williamson/Southee),73,47,82,7,2,155.31,England
+486,2,Alex Hales,st (WK)Conway b Santner,52,40,46,7,1,130.00,England
+487,3,Moeen Ali,c Boult b Sodhi,5,6,13,0,0,83.33,England
+488,4,Liam Livingstone, b Ferguson,20,14,20,1,1,142.85,England
+489,5,Harry Brook,c Allen b Southee,7,3,6,0,1,233.33,England
+490,6,Ben Stokes,lbw b Ferguson,8,7,11,0,0,114.28,England
+491,7,Sam Curran,not out ,6,3,7,0,1,200.00,England
+492,8,Dawid Malan,not out ,3,1,1,0,0,300.00,England
+493,1,Finn Allen,c Stokes b Curran,16,11,25,0,1,145.45,New Zealand
+494,2,Devon Conway(WK),c (WK)Buttler b Woakes,3,9,12,0,0,33.33,New Zealand
+495,3,Kane Williamson(c),c Rashid b Stokes,40,40,57,3,0,100.00,New Zealand
+496,4,Glenn Phillips,c sub (CJ Jordan) b Curran,62,36,64,4,3,172.22,New Zealand
+497,5,James Neesham,c Curran b Wood,6,3,7,1,0,200.00,New Zealand
+498,6,Daryl Mitchell,c sub (CJ Jordan) b Woakes,3,5,10,0,0,60.00,New Zealand
+499,7,Mitchell Santner,not out ,16,10,19,0,1,160.00,New Zealand
+500,8,Ish Sodhi,not out ,6,6,4,0,0,100.00,New Zealand
+501,1,Wessly Madhevere, b van Meekeren,1,5,9,0,0,20.00,Zimbabwe
+502,2,Craig Ervine(c),c (WK)Edwards b Glover,3,12,18,0,0,25.00,Zimbabwe
+503,3,Regis Chakabva(WK),lbw b Glover,5,16,18,1,0,31.25,Zimbabwe
+504,4,Sean Williams,c O'Dowd b van Meekeren,28,23,39,3,0,121.73,Zimbabwe
+505,5,Sikandar Raza,c Klaassen b de Leede,40,24,46,3,3,166.66,Zimbabwe
+506,6,Milton Shumba,c Myburgh b van Beek,2,3,6,0,0,66.66,Zimbabwe
+507,7,Ryan Burl, b van Meekeren,2,7,19,0,0,28.57,Zimbabwe
+508,8,Luke Jongwe,c van Beek b de Leede,6,8,12,0,0,75.00,Zimbabwe
+509,9,Richard Ngarava,c Myburgh b Klaassen,9,7,12,0,1,128.57,Zimbabwe
+510,10,Tendai Chatara,not out ,6,7,15,0,0,85.71,Zimbabwe
+511,11,Blessing Muzarabani,c Glover b van Beek,1,4,9,0,0,25.00,Zimbabwe
+512,1,Stephan Myburgh,c Burl b Muzarabani,8,7,15,0,1,114.28,Netherlands
+513,2,Max O'Dowd,c Shumba b Muzarabani,52,47,70,8,1,110.63,Netherlands
+514,3,Tom Cooper,c Madhevere b Jongwe,32,29,42,2,1,110.34,Netherlands
+515,4,Colin Ackermann,c Jongwe b Ngarava,1,5,6,0,0,20.00,Netherlands
+516,5,Bas de Leede,not out ,12,12,21,2,0,100.00,Netherlands
+517,6,Scott Edwards(c)(WK),c (WK)Chakabva b Ngarava,5,6,8,1,0,83.33,Netherlands
+518,7,Roelof van der Merwe,not out ,0,3,6,0,0,0.00,Netherlands
+519,1,KL Rahul,c Mustafizur Rahman b Shakib Al Hasan,50,32,49,3,4,156.25,India
+520,2,Rohit Sharma(c),c Yasir Ali b Hasan Mahmud,2,8,18,0,0,25.00,India
+521,3,Virat Kohli,not out ,64,44,84,8,1,145.45,India
+522,4,Suryakumar Yadav, b Shakib Al Hasan,30,16,18,4,0,187.50,India
+523,5,Hardik Pandya,c Yasir Ali b Hasan Mahmud,5,6,8,0,0,83.33,India
+524,6,Dinesh Karthik(WK),run out (Shakib Al Hasan/Shoriful Islam),7,5,12,1,0,140.00,India
+525,7,Axar Patel,c Shakib Al Hasan b Hasan Mahmud,7,6,6,1,0,116.66,India
+526,8,Ravichandran Ashwin,not out ,13,6,9,1,1,216.66,India
+527,1,Najmul Hossain Shanto,c Yadav b Mohammed Shami,21,25,50,1,1,84.00,Bangladesh
+528,2,Litton Das,run out (Rahul),60,27,40,7,3,222.22,Bangladesh
+529,3,Shakib Al Hasan(c),c sub (DJ Hooda) b Arshdeep Singh,13,12,24,2,0,108.33,Bangladesh
+530,4,Afif Hossain,c Yadav b Arshdeep Singh,3,5,12,0,0,60.00,Bangladesh
+531,5,Yasir Ali,c Arshdeep Singh b Pandya,1,3,8,0,0,33.33,Bangladesh
+532,6,Nurul Hasan(WK),not out ,25,14,29,2,1,178.57,Bangladesh
+533,7,Mosaddek Hossain, b Pandya,6,3,4,0,1,200.00,Bangladesh
+534,8,Taskin Ahmed,not out ,12,7,22,1,1,171.42,Bangladesh
+535,1,Mohammad Rizwan(WK), b Parnell,4,4,4,1,0,100.00,Pakistan
+536,2,Babar Azam(c),c Rabada b Ngidi,6,15,29,0,0,40.00,Pakistan
+537,3,Mohammad Haris,lbw b Nortje,28,11,19,2,3,254.54,Pakistan
+538,4,Shan Masood,c Bavuma b Nortje,2,6,11,0,0,33.33,Pakistan
+539,5,Iftikhar Ahmed,c Rossouw b Rabada,51,35,73,3,2,145.71,Pakistan
+540,6,Mohammad Nawaz,lbw b Shamsi,28,22,32,4,1,127.27,Pakistan
+541,7,Shadab Khan,c Stubbs b Nortje,52,22,31,3,4,236.36,Pakistan
+542,8,Mohammad Wasim,c Bavuma b Nortje,0,1,1,0,0,0.00,Pakistan
+543,9,Naseem Shah,not out ,5,3,3,0,0,166.66,Pakistan
+544,10,Haris Rauf,run out (Klaasen/Bavuma),3,2,2,0,0,150.00,Pakistan
+545,1,Temba Bavuma(c),c (WK)Mohammad Rizwan b Shadab Khan,36,19,39,4,1,189.47,South Africa
+546,2,Quinton de Kock(WK),c Mohammad Haris b Shaheen Shah Afridi,0,5,6,0,0,0.00,South Africa
+547,3,Rilee Rossouw,c Naseem Shah b Shaheen Shah Afridi,7,6,10,0,1,116.66,South Africa
+548,4,Aiden Markram, b Shadab Khan,20,14,28,4,0,142.85,South Africa
+549,5,Heinrich Klaasen,c Mohammad Wasim b Shaheen Shah Afridi,15,9,18,3,0,166.66,South Africa
+550,6,Tristan Stubbs,c Mohammad Nawaz b Naseem Shah,18,18,28,0,1,100.00,South Africa
+551,7,Wayne Parnell,lbw b Mohammad Wasim,3,4,9,0,0,75.00,South Africa
+552,8,Kagiso Rabada,run out (Mohammad Nawaz/Haris Rauf),1,2,11,0,0,50.00,South Africa
+553,9,Anrich Nortje,c Mohammad Haris b Haris Rauf,1,5,8,0,0,20.00,South Africa
+554,10,Lungi Ngidi,not out ,4,1,5,1,0,400.00,South Africa
+555,11,Tabraiz Shamsi,not out ,1,1,3,0,0,100.00,South Africa
+556,1,Finn Allen,c Hand b Adair,32,18,30,5,1,177.77,New Zealand
+557,2,Devon Conway(WK),c Adair b Delany,28,33,55,2,0,84.84,New Zealand
+558,3,Kane Williamson(c),c Delany b Little,61,35,59,5,3,174.28,New Zealand
+559,4,Glenn Phillips,c Dockrell b Delany,17,9,9,2,1,188.88,New Zealand
+560,5,Daryl Mitchell,not out ,31,21,35,2,0,147.61,New Zealand
+561,6,James Neesham,lbw b Little,0,1,3,0,0,0.00,New Zealand
+562,7,Mitchell Santner,lbw b Little,0,1,2,0,0,0.00,New Zealand
+563,8,Tim Southee,not out ,1,2,7,0,0,50.00,New Zealand
+564,1,Paul Stirling, b Sodhi,37,27,39,3,1,137.03,Ireland
+565,2,Andy Balbirnie(c), b Santner,30,25,36,0,3,120.00,Ireland
+566,3,Lorcan Tucker(WK),c Allen b Sodhi,13,14,30,0,0,92.85,Ireland
+567,4,Harry Tector,c Southee b Santner,2,7,4,0,0,28.57,Ireland
+568,5,Gareth Delany,c (WK)Conway b Ferguson,10,8,12,2,0,125.00,Ireland
+569,6,George Dockrell,c Williamson b Ferguson,23,15,24,3,0,153.33,Ireland
+570,7,Curtis Campher,c Allen b Southee,7,7,10,1,0,100.00,Ireland
+571,8,Fionn Hand,c & b Ferguson,5,3,7,1,0,166.66,Ireland
+572,9,Mark Adair,c Phillips b Southee,4,5,9,0,0,80.00,Ireland
+573,10,Barry McCarthy,not out ,6,5,10,0,0,120.00,Ireland
+574,11,Josh Little,not out ,8,4,3,0,1,200.00,Ireland
+575,1,David Warner, b Naveen-ul-Haq,25,18,28,5,0,138.88,Australia
+576,2,Cameron Green,c Gulbadin Naib b Fazalhaq Farooqi,3,2,12,0,0,150.00,Australia
+577,3,Mitchell Marsh,c (WK)Rahmanullah Gurbaz b Mujeeb Ur Rahman,45,30,42,3,2,150.00,Australia
+578,4,Steven Smith,lbw b Naveen-ul-Haq,4,4,6,1,0,100.00,Australia
+579,5,Marcus Stoinis,c Usman Ghani b Rashid Khan,25,21,41,0,2,119.04,Australia
+580,6,Glenn Maxwell,not out ,54,32,46,6,2,168.75,Australia
+581,7,Matthew Wade(c)(WK), b Fazalhaq Farooqi,6,8,14,1,0,75.00,Australia
+582,8,Pat Cummins,c Rashid Khan b Naveen-ul-Haq,0,2,4,0,0,0.00,Australia
+583,9,Kane Richardson,run out (Naveen-ul-Haq),1,1,6,0,0,100.00,Australia
+584,10,Adam Zampa,not out ,1,1,5,0,0,100.00,Australia
+585,1,Rahmanullah Gurbaz(WK),c Warner b Richardson,30,17,31,2,2,176.47,Afghanistan
+586,2,Usman Ghani,c Cummins b Hazlewood,2,7,16,0,0,28.57,Afghanistan
+587,3,Ibrahim Zadran,c Marsh b Zampa,26,33,55,2,0,78.78,Afghanistan
+588,4,Gulbadin Naib,run out (Maxwell),39,23,38,3,2,169.56,Afghanistan
+589,5,Mohammad Nabi(c),c Warner b Hazlewood,1,2,10,0,0,50.00,Afghanistan
+590,6,Najibullah Zadran,c Maxwell b Zampa,0,2,3,0,0,0.00,Afghanistan
+591,7,Darwish Rasooli,run out ((WK)Wade/Stoinis),15,13,28,1,0,115.38,Afghanistan
+592,8,Rashid Khan,not out ,48,23,27,3,4,208.69,Afghanistan
+593,9,Naveen-ul-Haq,not out ,0,0,4,0,0,-,Afghanistan
+594,1,Pathum Nissanka,c sub (CJ Jordan) b Rashid,67,45,70,2,5,148.88,Sri Lanka
+595,2,Kusal Mendis(WK),c Livingstone b Woakes,18,14,21,1,1,128.57,Sri Lanka
+596,3,Dhananjaya de Silva,c Stokes b Curran,9,11,17,0,0,81.81,Sri Lanka
+597,4,Charith Asalanka,c Malan b Stokes,8,9,15,0,0,88.88,Sri Lanka
+598,5,Bhanuka Rajapaksa,c Curran b Wood,22,22,41,3,0,100.00,Sri Lanka
+599,6,Dasun Shanaka(c),c (WK)Buttler b Wood,3,8,12,0,0,37.50,Sri Lanka
+600,7,Wanindu Hasaranga de Silva,run out ((WK)Buttler/Wood),9,9,13,1,0,100.00,Sri Lanka
+601,8,Chamika Karunaratne,c Hales b Wood,0,2,3,0,0,0.00,Sri Lanka
+602,9,Maheesh Theekshana,not out ,0,0,2,0,0,-,Sri Lanka
+603,1,Jos Buttler(c)(WK),c Karunaratne b PWH de Silva,28,23,35,2,1,121.73,England
+604,2,Alex Hales,c & b PWH de Silva,47,30,42,7,1,156.66,England
+605,3,Ben Stokes,not out ,42,36,59,2,0,116.66,England
+606,4,Harry Brook,c & b DM de Silva,4,5,9,0,0,80.00,England
+607,5,Liam Livingstone,c DM de Silva b Kumara,4,6,10,0,0,66.66,England
+608,6,Moeen Ali,c Shanaka b DM de Silva,1,5,8,0,0,20.00,England
+609,7,Sam Curran,c Rajitha b Kumara,6,11,16,0,0,54.54,England
+610,8,Chris Woakes,not out ,5,3,11,1,0,166.66,England
+611,1,Stephan Myburgh,c Rossouw b Markram,37,30,41,7,0,123.33,Netherlands
+612,2,Max O'Dowd,c Rabada b Maharaj,29,31,61,1,1,93.54,Netherlands
+613,3,Tom Cooper,c (WK)de Kock b Maharaj,35,19,30,2,2,184.21,Netherlands
+614,4,Colin Ackermann,not out ,41,26,31,3,2,157.69,Netherlands
+615,5,Bas de Leede, b Nortje,1,7,11,0,0,14.28,Netherlands
+616,6,Scott Edwards(c)(WK),not out ,12,7,11,2,0,171.42,Netherlands
+617,1,Quinton de Kock(WK),c (WK)Edwards b Klaassen,13,13,12,1,1,100.00,South Africa
+618,2,Temba Bavuma(c), b van Meekeren,20,20,26,2,0,100.00,South Africa
+619,3,Rilee Rossouw,c O'Dowd b Glover,25,19,29,2,0,131.57,South Africa
+620,4,Aiden Markram,c Myburgh b Klaassen,17,13,30,2,0,130.76,South Africa
+621,5,David Miller,c van der Merwe b Glover,17,17,28,1,0,100.00,South Africa
+622,6,Heinrich Klaasen,c van Beek b de Leede,21,18,27,0,1,116.66,South Africa
+623,7,Wayne Parnell,c (WK)Edwards b Glover,0,2,3,0,0,0.00,South Africa
+624,8,Keshav Maharaj,c O'Dowd b de Leede,13,12,20,0,1,108.33,South Africa
+625,9,Kagiso Rabada,not out ,9,8,13,0,0,112.50,South Africa
+626,10,Anrich Nortje,not out ,4,1,2,1,0,400.00,South Africa
+627,1,Najmul Hossain Shanto, b Iftikhar Ahmed,54,48,66,7,0,112.50,Bangladesh
+628,2,Litton Das,c Shan Masood b Shaheen Shah Afridi,10,8,15,0,1,125.00,Bangladesh
+629,3,Soumya Sarkar,c Shan Masood b Shadab Khan,20,17,38,1,1,117.64,Bangladesh
+630,4,Shakib Al Hasan(c),lbw b Shadab Khan,0,1,4,0,0,0.00,Bangladesh
+631,5,Afif Hossain,not out ,24,20,47,3,0,120.00,Bangladesh
+632,6,Mosaddek Hossain, b Shaheen Shah Afridi,5,11,17,0,0,45.45,Bangladesh
+633,7,Nurul Hasan(WK),c Mohammad Haris b Shaheen Shah Afridi,0,3,4,0,0,0.00,Bangladesh
+634,8,Taskin Ahmed,c Babar Azam b Shaheen Shah Afridi,1,5,8,0,0,20.00,Bangladesh
+635,9,Nasum Ahmed,c Mohammad Wasim b Haris Rauf,7,6,9,1,0,116.66,Bangladesh
+636,10,Mustafizur Rahman,not out ,0,1,1,0,0,0.00,Bangladesh
+637,1,Mohammad Rizwan(WK),c Najmul Hossain Shanto b Ebadot Hossain,32,32,51,2,1,100.00,Pakistan
+638,2,Babar Azam(c),c Mustafizur Rahman b Nasum Ahmed,25,33,46,2,0,75.75,Pakistan
+639,3,Mohammad Nawaz,run out (Litton Das),4,11,27,0,0,36.36,Pakistan
+640,4,Mohammad Haris,c Nasum Ahmed b Shakib Al Hasan,31,18,31,1,2,172.22,Pakistan
+641,5,Shan Masood,not out ,24,14,20,2,0,171.42,Pakistan
+642,6,Iftikhar Ahmed,c Najmul Hossain Shanto b Mustafizur Rahman,1,3,8,0,0,33.33,Pakistan
+643,7,Shadab Khan,not out ,0,0,2,0,0,-,Pakistan
+644,1,KL Rahul,c Masakadza b Sikandar Raza,51,35,59,3,3,145.71,India
+645,2,Rohit Sharma(c),c Masakadza b Muzarabani,15,13,20,2,0,115.38,India
+646,3,Virat Kohli,c Burl b Williams,26,25,36,2,0,104.00,India
+647,4,Suryakumar Yadav,not out ,61,25,44,6,4,244.00,India
+648,5,Rishabh Pant(WK),c Burl b Williams,3,5,7,0,0,60.00,India
+649,6,Hardik Pandya,c Muzarabani b Ngarava,18,18,29,2,0,100.00,India
+650,7,Axar Patel,not out ,0,0,6,0,0,-,India
+651,1,Wessly Madhevere,c Kohli b Kumar,0,1,1,0,0,0.00,Zimbabwe
+652,2,Craig Ervine(c),c & b Pandya,13,15,37,2,0,86.66,Zimbabwe
+653,3,Regis Chakabva(WK), b Arshdeep Singh,0,6,9,0,0,0.00,Zimbabwe
+654,4,Sean Williams,c Kumar b Mohammed Shami,11,18,22,0,1,61.11,Zimbabwe
+655,5,Sikandar Raza,c Yadav b Pandya,34,24,53,3,0,141.66,Zimbabwe
+656,6,Tony Munyonga,lbw b Mohammed Shami,5,4,6,1,0,125.00,Zimbabwe
+657,7,Ryan Burl, b Ashwin,35,22,27,5,1,159.09,Zimbabwe
+658,8,Wellington Masakadza,c Sharma b Ashwin,1,7,8,0,0,14.28,Zimbabwe
+659,9,Richard Ngarava, b Ashwin,1,2,4,0,0,50.00,Zimbabwe
+660,10,Tendai Chatara,c & b Patel,4,4,11,1,0,100.00,Zimbabwe
+661,11,Blessing Muzarabani,not out ,0,2,5,0,0,0.00,Zimbabwe
+662,1,Finn Allen,lbw b Shaheen Shah Afridi,4,3,6,1,0,133.33,New Zealand
+663,2,Devon Conway(WK),run out (Shadab Khan),21,20,35,3,0,105.00,New Zealand
+664,3,Kane Williamson(c), b Shaheen Shah Afridi,46,42,81,1,1,109.52,New Zealand
+665,4,Glenn Phillips,c & b Mohammad Nawaz,6,8,9,1,0,75.00,New Zealand
+666,5,Daryl Mitchell,not out ,53,35,60,3,1,151.42,New Zealand
+667,6,James Neesham,not out ,16,12,19,1,0,133.33,New Zealand
+668,1,Mohammad Rizwan(WK),c Phillips b Boult,57,43,77,5,0,132.55,Pakistan
+669,2,Babar Azam(c),c Mitchell b Boult,53,42,56,7,0,126.19,Pakistan
+670,3,Mohammad Haris,c Allen b Santner,30,26,32,2,1,115.38,Pakistan
+671,4,Shan Masood,not out ,3,4,13,0,0,75.00,Pakistan
+672,5,Iftikhar Ahmed,not out ,0,0,3,0,0,-,Pakistan
+673,1,KL Rahul,c (WK)Buttler b Woakes,5,5,8,1,0,100.00,India
+674,2,Rohit Sharma(c),c Curran b Jordan,27,28,37,4,0,96.42,India
+675,3,Virat Kohli,c Rashid b Jordan,50,40,75,4,1,125.00,India
+676,4,Suryakumar Yadav,c Salt b Rashid,14,10,14,1,1,140.00,India
+677,5,Hardik Pandya,hit wicket b Jordan,63,33,47,4,5,190.90,India
+678,6,Rishabh Pant(WK),run out ((WK)Buttler/Jordan),6,4,13,1,0,150.00,India
+679,7,Ravichandran Ashwin,not out ,0,0,4,0,0,-,India
+680,1,Jos Buttler(c)(WK),not out ,80,49,74,9,3,163.26,England
+681,2,Alex Hales,not out ,86,47,74,4,7,182.97,England
+682,1,Mohammad Rizwan(WK), b Curran,15,14,24,0,1,107.14,Pakistan
+683,2,Babar Azam(c),c & b Rashid,32,28,58,2,0,114.28,Pakistan
+684,3,Mohammad Haris,c Stokes b Rashid,8,12,15,1,0,66.66,Pakistan
+685,4,Shan Masood,c Livingstone b Curran,38,28,46,2,1,135.71,Pakistan
+686,5,Iftikhar Ahmed,c (WK)Buttler b Stokes,0,6,8,0,0,0.00,Pakistan
+687,6,Shadab Khan,c Woakes b Jordan,20,14,26,2,0,142.85,Pakistan
+688,7,Mohammad Nawaz,c Livingstone b Curran,5,7,11,0,0,71.42,Pakistan
+689,8,Mohammad Wasim,c Livingstone b Jordan,4,8,12,0,0,50.00,Pakistan
+690,9,Shaheen Shah Afridi,not out ,5,3,8,1,0,166.66,Pakistan
+691,10,Haris Rauf,not out ,1,1,3,0,0,100.00,Pakistan
+692,1,Jos Buttler(c)(WK),c (WK)Mohammad Rizwan b Haris Rauf,26,17,33,3,1,152.94,England
+693,2,Alex Hales, b Shaheen Shah Afridi,1,2,6,0,0,50.00,England
+694,3,Phil Salt,c Iftikhar Ahmed b Haris Rauf,10,9,16,2,0,111.11,England
+695,4,Ben Stokes,not out ,52,49,81,5,1,106.12,England
+696,5,Harry Brook,c Shaheen Shah Afridi b Shadab Khan,20,23,36,1,0,86.95,England
+697,6,Moeen Ali, b Mohammad Wasim,19,13,30,3,0,146.15,England
+698,7,Liam Livingstone,not out ,1,1,3,0,0,100.00,England
