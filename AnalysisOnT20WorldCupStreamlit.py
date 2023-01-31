@@ -1,15 +1,15 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import streamlit as st
 import seaborn as sns
 from PIL import Image
 import plotly.express as px
 
 
-def corr(df):
-    corr = df.corr(method='spearman')
-    return sns.heatmap(corr, annot=True)
+#def corr(df):
+ #   corr = df.corr(method='spearman')
+  #  return sns.heatmap(corr, annot=True)
 
 
 def bat_first_win_pct(df):
@@ -239,11 +239,11 @@ with col7_0:
 
 col8_0, col8, col8_1 = st.columns([10, .1, 10])
 
-with col8_0:
-    st.text("")
-    fig = plt.figure(figsize=(8, 4))
-    corr = corr(batting_summary)
-    st.pyplot(fig)
+#with col8_0:
+ #   st.text("")
+  #  fig = plt.figure(figsize=(8, 4))
+   # corr = corr(batting_summary)
+   # st.pyplot(fig)
 
 with col8_1:
     st.text("")
@@ -268,11 +268,11 @@ with col9_0:
 
 col10_0, col10, col10_1 = st.columns([10, .1, 10])
 
-with col10_0:
-    st.text("")
-    fig1, ax = plt.subplots()
-    sns.heatmap(bowling_summary.corr(method='spearman'), annot=True, ax=ax)
-    st.write(fig1)
+#with col10_0:
+ #   st.text("")
+  #  fig1, ax = plt.subplots()
+   # sns.heatmap(bowling_summary.corr(method='spearman'), annot=True, ax=ax)
+    #st.write(fig1)
 
 with col10_1:
     st.text("")
