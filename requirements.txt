@@ -1,3 +1,4 @@
+streamlit==1.17.0
 plotly==4.7.1
 Pillow==9.3.0
 numpy==1.20.1
