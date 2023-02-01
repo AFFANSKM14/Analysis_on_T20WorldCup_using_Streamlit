@@ -1,4 +1,4 @@
-plotly==4.7.1
+plotly
 Pillow==9.3.0
 seaborn==0.11.2
 matplotlib==3.6.2
