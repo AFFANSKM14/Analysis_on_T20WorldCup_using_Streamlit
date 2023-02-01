@@ -1,15 +1,15 @@
 import pandas as pd
 import numpy as np
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import streamlit as st
 import seaborn as sns
 from PIL import Image
 import plotly.express as px
 
 
-#def corr(df):
- #   corr = df.corr(method='spearman')
-  #  return sns.heatmap(corr, annot=True)
+def corr(df):
+   corr = df.corr(method='spearman')
+   return sns.heatmap(corr, annot=True)
 
 
 def bat_first_win_pct(df):
@@ -59,42 +59,48 @@ def top_teams_on_chasing_defending(bat_team, bowl_team):
             top5_chs.append(c)
     return top5_def, top5_chs, team1, team2
 
+
 def batting_stats(attr):
     if attr != 'SR':
-        overall_data = batting_summary.groupby(['Country', 'Batter'], as_index=False).agg({attr:'sum'})
+        overall_data = batting_summary.groupby(['Country', 'Batter'], as_index=False).agg({attr: 'sum'})
         sorted_data = overall_data.sort_values(by=attr, ascending=False)
         top_10_bat_data = sorted_data[:10]
     elif attr == 'SR':
-        overall_data = batting_summary.groupby(['Country', 'Batter'], as_index=False).agg({attr: 'mean', 'Balls': 'sum'})
-        filtered_data = overall_data[overall_data['Balls']>20]
+        overall_data = batting_summary.groupby(['Country', 'Batter'], as_index=False).agg(
+            {attr: 'mean', 'Balls': 'sum'})
+        filtered_data = overall_data[overall_data['Balls'] > 20]
         sorted_data = filtered_data.sort_values(by=attr, ascending=False)
         top_10_bat_data = sorted_data[:10]
 
     return top_10_bat_data
 
+
 def bowling_stats(attr):
     if attr != 'ECON' and attr != 'WD':
-        overall_data = bowling_summary.groupby(['Country', 'Bowler'], as_index=False).agg({attr:'sum'})
+        overall_data = bowling_summary.groupby(['Country', 'Bowler'], as_index=False).agg({attr: 'sum'})
         sorted_data = overall_data.sort_values(by=attr, ascending=False)
         top_10_bowl_data = sorted_data[:10]
     elif attr == 'WD':
-        overall_data = bowling_summary.groupby(['Country', 'Bowler'], as_index=False).agg({attr: 'sum','NB':'sum'})
+        overall_data = bowling_summary.groupby(['Country', 'Bowler'], as_index=False).agg({attr: 'sum', 'NB': 'sum'})
         sorted_data = overall_data.sort_values(by=attr, ascending=False)
         top_10_bowl_data = sorted_data[:10]
     elif attr == 'ECON':
-        overall_data = bowling_summary.groupby(['Country', 'Bowler'], as_index=False).agg({attr: 'mean','Overs':sum})
-        filtered_data = overall_data[overall_data['Overs']>15]
+        overall_data = bowling_summary.groupby(['Country', 'Bowler'], as_index=False).agg({attr: 'mean', 'Overs': sum})
+        filtered_data = overall_data[overall_data['Overs'] > 15]
         sorted_data = filtered_data.sort_values(by=attr, ascending=True)
         top_10_bowl_data = sorted_data[:10]
     return top_10_bowl_data
+
 
 def Batter_Perf(option):
     df = batting_summary[batting_summary['Batter'] == option]
     return df
 
+
 def Bowler_Perf(option1):
-    df = bowling_summary[bowling_summary['Bowler']==option1]
+    df = bowling_summary[bowling_summary['Bowler'] == option1]
     return df
+
 
 # importing data through scrapped data which was transformed into dataframe and then exported to csv
 batting_summary = pd.read_csv('batting_summary_T20worldcup2022.csv')
@@ -218,7 +224,7 @@ col6_0, col6_1, col6_2, col6_3 = st.columns([7, .1, 7, .1])
 with col6_0:
     st.text("")
     st.subheader("Top Five Teams Winning games by Defending Target")
-    st.write(px.bar(x=team1, y=top_def,width=600,height=400))
+    st.write(px.bar(x=team1, y=top_def, width=600, height=400))
     st.text("")
     st.write("""By seeing above chart we can clearly say that India and New Zealand has enjoyed batting first 
     and winning three matches equally """)
@@ -226,7 +232,7 @@ with col6_0:
 with col6_2:
     st.text("")
     st.subheader("Top Five Teams Winning games by Chasing Target")
-    st.write(px.bar(x=team2, y=top_chs,width=600,height=400))
+    st.write(px.bar(x=team2, y=top_chs, width=600, height=400))
     st.text("")
     st.write("""By seeing above chart we can clearly say that England has enjoyed batting second 
         and winning four matches """)
@@ -239,11 +245,11 @@ with col7_0:
 
 col8_0, col8, col8_1 = st.columns([10, .1, 10])
 
-#with col8_0:
- #   st.text("")
-  #  fig = plt.figure(figsize=(8, 4))
-   # corr = corr(batting_summary)
-   # st.pyplot(fig)
+with col8_0:
+    st.text("")
+    fig = plt.figure(figsize=(8, 4))
+    corr = corr(batting_summary)
+    st.pyplot(fig)
 
 with col8_1:
     st.text("")
@@ -268,11 +274,11 @@ with col9_0:
 
 col10_0, col10, col10_1 = st.columns([10, .1, 10])
 
-#with col10_0:
- #   st.text("")
-  #  fig1, ax = plt.subplots()
-   # sns.heatmap(bowling_summary.corr(method='spearman'), annot=True, ax=ax)
-    #st.write(fig1)
+with col10_0:
+    st.text("")
+    fig1, ax = plt.subplots()
+    sns.heatmap(bowling_summary.corr(method='spearman'), annot=True, ax=ax)
+    st.write(fig1)
 
 with col10_1:
     st.text("")
@@ -286,18 +292,18 @@ with col10_1:
     st.text("")
     st.write(""" 
                 Negative relation between attributes:
-                 
+
                  1) As Economy increases then number of 0s and Wickets decreases
                  """)
     st.text("")
     st.write(""" 
                 Positive relation between attributes:
-                
+
                  1) As Economy increases then number of 4s and 6s increases
                  2) Runs given by bowler increases then number of 4s and 6s increases
                  3) AS number of overs increases then Wickets, 0s, Runs increases""")
 
-col11_0, col11 = st.columns([5,7])
+col11_0, col11 = st.columns([5, 7])
 
 with col11_0:
     st.text("")
@@ -325,13 +331,13 @@ with col11:
     fig.update_traces(fill='toself')
     st.write(fig)
 
-col12_0, col12 = st.columns([10,.1])
+col12_0, col12 = st.columns([10, .1])
 
 with col12_0:
     st.subheader("Batting Stats")
 
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Most Runs ", "Most 4s", "Most 6s", "Best Strike Rate", "Most Balls Faced"
-                                                 ,"Number of Minutes Stayed on Crease"])
+                                                 , "Number of Minutes Stayed on Crease"])
 
 with tab1:
     data = batting_stats('Runs')
@@ -352,14 +358,15 @@ with tab6:
     data = batting_stats('Minutes')
     st.table(data)
 
-#Bowling Stats
-col13_0, col13 = st.columns([10,.1])
+# Bowling Stats
+col13_0, col13 = st.columns([10, .1])
 
 with col13_0:
     st.subheader("Bowling Stats")
 
 tab7, tab8, tab9, tab10, tab11, tab12, tab13, tab14 = st.tabs(["Most Wickets ", "Most 4s Given", "Most 6s Given",
-                                         "Best Economy", "Most Dot Balls", "Most Maidens", "Runs Leaked", "Extras"])
+                                                               "Best Economy", "Most Dot Balls", "Most Maidens",
+                                                               "Runs Leaked", "Extras"])
 
 with tab7:
     data = bowling_stats('Wickets')
@@ -386,23 +393,23 @@ with tab14:
     data = bowling_stats('WD')
     st.table(data)
 
-col14_0, col14 = st.columns([10,.1])
+col14_0, col14 = st.columns([10, .1])
 
 with col14_0:
     st.text("")
     st.subheader("Individual Performance of batter")
 
 batters = list(set(batting_summary['Batter']))
-batters.insert(0, '') #for writing option in select boc
+batters.insert(0, '')  # for writing option in select boc
 option = st.selectbox("Pick on of the Batter to see their Individual Perfomance", batters)
 
-col15_0, col15 = st.columns([10,.1])
+col15_0, col15 = st.columns([10, .1])
 
 with col15_0:
     st.text("")
     st.write('Perfomance of ', option, 'in this tournament is ')
 
-col16_0, col16, col16_1 = st.columns([11,.1,14])
+col16_0, col16, col16_1 = st.columns([11, .1, 14])
 
 with col16_0:
     st.text("")
@@ -411,36 +418,36 @@ with col16_0:
 
 with col16_1:
     st.text("")
-    Innings = list(range(1,len(batter_metric)+1))
+    Innings = list(range(1, len(batter_metric) + 1))
     runs = list(batter_metric['Runs'])
     SR = list(batter_metric['SR'])
 
-    chart_df = pd.DataFrame({'innings': Innings, 'runs': runs, 'strike_rate': SR,'Balls': list(batter_metric['Balls'])})
-    fig = px.line(chart_df, x='innings', y='runs', title='Runs vs SR vs Balls',animation_group='runs')
+    chart_df = pd.DataFrame(
+        {'innings': Innings, 'runs': runs, 'strike_rate': SR, 'Balls': list(batter_metric['Balls'])})
+    fig = px.line(chart_df, x='innings', y='runs', title='Runs vs SR vs Balls', animation_group='runs')
     fig.add_scatter(x=chart_df['innings'], y=chart_df['strike_rate'], mode='lines', name='Strike Rate')
     fig.add_scatter(x=chart_df['innings'], y=chart_df['Balls'], mode='lines', name='Balls')
     st.write(fig)
 
-
 # Individual perfomance of bowler
 
-col17_0, col17 = st.columns([10,.1])
+col17_0, col17 = st.columns([10, .1])
 
 with col17_0:
     st.text("")
     st.subheader("Individual Performance of bowler")
 
 bowlers = list(set(bowling_summary['Bowler']))
-bowlers.insert(0, '') #for writing option in select boc
+bowlers.insert(0, '')  # for writing option in select boc
 option1 = st.selectbox("Pick on of the Batter to see their Individual Perfomance", bowlers)
 
-col18_0, col18 = st.columns([10,.1])
+col18_0, col18 = st.columns([10, .1])
 
 with col18_0:
     st.text("")
     st.write('Perfomance of ', option1, 'in this tournament is ')
 
-col19_0, col19, col19_1 = st.columns([11,.1,14])
+col19_0, col19, col19_1 = st.columns([11, .1, 14])
 
 with col19_0:
     st.text("")
@@ -449,13 +456,13 @@ with col19_0:
 
 with col19_1:
     st.text("")
-    Innings = list(range(1,len(bowler_metric)+1))
+    Innings = list(range(1, len(bowler_metric) + 1))
     Wickets = list(bowler_metric['Wickets'])
     ECON = list(bowler_metric['ECON'])
 
-    chart_df1 = pd.DataFrame({'innings': Innings, 'Wickets': Wickets, 'ECON': ECON,'Runs': list(bowler_metric['Runs'])})
-    fig = px.line(chart_df1, x='innings', y='Wickets', title='Wickets vs ECON vs Runs',animation_group='Wickets')
+    chart_df1 = pd.DataFrame(
+        {'innings': Innings, 'Wickets': Wickets, 'ECON': ECON, 'Runs': list(bowler_metric['Runs'])})
+    fig = px.line(chart_df1, x='innings', y='Wickets', title='Wickets vs ECON vs Runs', animation_group='Wickets')
     fig.add_scatter(x=chart_df1['innings'], y=chart_df1['ECON'], mode='lines', name='Economy')
     fig.add_scatter(x=chart_df1['innings'], y=chart_df1['Runs'], mode='lines', name='Runs')
     st.write(fig)
-
