@@ -439,7 +439,7 @@ with col17_0:
 
 bowlers = list(set(bowling_summary['Bowler']))
 bowlers.insert(0, '')  # for writing option in select boc
-option1 = st.selectbox("Pick on of the Batter to see their Individual Perfomance", bowlers)
+option1 = st.selectbox("Pick on of the Bowler to see their Individual Perfomance", bowlers)
 
 col18_0, col18 = st.columns([10, .1])
 
