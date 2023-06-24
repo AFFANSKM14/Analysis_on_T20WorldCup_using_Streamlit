@@ -125,6 +125,10 @@ batting_summary['SR'] = batting_summary['SR'].str.replace('-', '0')
 batting_summary['Minutes'] = batting_summary['Minutes'].astype(int)
 batting_summary['SR'] = batting_summary['SR'].astype(float)
 
+#numeric data frame
+corr_df_bat = batting_summary.select_dtypes(include=np.number)
+
+
 bat_team, bowl_team, bowl_pct, bat_pct = bat_first_win_pct(match_summary)
 top_def, top_chs, team1, team2 = top_teams_on_chasing_defending(bat_team, bowl_team)
 
@@ -248,8 +252,8 @@ col8_0, col8, col8_1 = st.columns([10, .1, 10])
 with col8_0:
     st.text("")
     fig = plt.figure(figsize=(8, 4))
-    corr = corr(batting_summary)
-    #st.pyplot(fig)
+    corr = corr(corr_df_bat)
+    st.pyplot(fig)
 
 with col8_1:
     st.text("")
