@@ -277,8 +277,8 @@ col10_0, col10, col10_1 = st.columns([10, .1, 10])
 with col10_0:
     st.text("")
     fig1, ax = plt.subplots()
-    sns.heatmap(bowling_summary.corr(method='spearman'), annot=True, ax=ax)
-    st.write(fig1)
+    #sns.heatmap(bowling_summary.corr(method='spearman'), annot=True, ax=ax)
+    #st.write(fig1)
 
 with col10_1:
     st.text("")
