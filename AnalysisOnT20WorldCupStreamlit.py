@@ -127,7 +127,7 @@ batting_summary['SR'] = batting_summary['SR'].astype(float)
 
 #numeric data frame
 corr_df_bat = batting_summary.select_dtypes(include=np.number)
-
+corr_df_bowl = bowling_summary.select_dtypes(include=np.number)
 
 bat_team, bowl_team, bowl_pct, bat_pct = bat_first_win_pct(match_summary)
 top_def, top_chs, team1, team2 = top_teams_on_chasing_defending(bat_team, bowl_team)
@@ -281,8 +281,10 @@ col10_0, col10, col10_1 = st.columns([10, .1, 10])
 with col10_0:
     st.text("")
     fig1, ax = plt.subplots()
-    #sns.heatmap(bowling_summary.corr(method='spearman'), annot=True, ax=ax)
-    #st.write(fig1)
+   # sns.heatmap(corr_df_bowl.corr(method='spearman'), annot=True, ax=ax)
+   # st.write(fig1)
+    corr = corr(corr_df_bowl)
+    st.pyplot(fig1)
 
 with col10_1:
     st.text("")
