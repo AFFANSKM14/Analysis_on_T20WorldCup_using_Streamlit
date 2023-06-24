@@ -280,11 +280,10 @@ col10_0, col10, col10_1 = st.columns([10, .1, 10])
 
 with col10_0:
     st.text("")
-    fig1 = plt.figure(figsize=(8, 4))
-   # sns.heatmap(corr_df_bowl.corr(method='spearman'), annot=True, ax=ax)
-   # st.write(fig1)
-    corr = corr(corr_df_bowl)
-    st.pyplot(fig1)
+    fig1, ax = plt.subplots()
+    sns.heatmap(corr_df_bowl.corr(method='spearman'), annot=True, ax=ax)
+    st.write(fig1)
+
 
 with col10_1:
     st.text("")
