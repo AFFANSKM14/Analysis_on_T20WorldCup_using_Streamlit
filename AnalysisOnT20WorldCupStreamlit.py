@@ -280,7 +280,7 @@ col10_0, col10, col10_1 = st.columns([10, .1, 10])
 
 with col10_0:
     st.text("")
-    fig1, ax = plt.subplots()
+    fig1 = plt.figure(figsize=(8, 4))
    # sns.heatmap(corr_df_bowl.corr(method='spearman'), annot=True, ax=ax)
    # st.write(fig1)
     corr = corr(corr_df_bowl)
