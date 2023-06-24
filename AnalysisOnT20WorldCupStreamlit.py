@@ -443,19 +443,19 @@ option1 = st.selectbox("Pick on of the Bowler to see their Individual Perfomance
 
 col18_0, col18 = st.columns([10, .1])
 
-if option1 != None
-   with col18_0:
-       st.text("")
-       st.write('Perfomance of ', option1, 'in this tournament is ')
+if option1 == True
+    with col18_0:
+      st.text("")
+      st.write('Perfomance of ', option1, 'in this tournament is ')
 
-   col19_0, col19, col19_1 = st.columns([11, .1, 14])
+    col19_0, col19, col19_1 = st.columns([11, .1, 14])
 
-   with col19_0:
+    with col19_0:
        st.text("")
        bowler_metric = Bowler_Perf(option1)
        st.table(bowler_metric)
 
-   with col19_1:
+    with col19_1:
        st.text("")
        Innings = list(range(1, len(bowler_metric) + 1))
        Wickets = list(bowler_metric['Wickets'])
