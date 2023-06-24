@@ -443,26 +443,27 @@ option1 = st.selectbox("Pick on of the Bowler to see their Individual Perfomance
 
 col18_0, col18 = st.columns([10, .1])
 
-with col18_0:
-    st.text("")
-    st.write('Perfomance of ', option1, 'in this tournament is ')
+if option1 != None
+   with col18_0:
+       st.text("")
+       st.write('Perfomance of ', option1, 'in this tournament is ')
 
-col19_0, col19, col19_1 = st.columns([11, .1, 14])
+   col19_0, col19, col19_1 = st.columns([11, .1, 14])
 
-with col19_0:
-    st.text("")
-    bowler_metric = Bowler_Perf(option1)
-    st.table(bowler_metric)
+   with col19_0:
+       st.text("")
+       bowler_metric = Bowler_Perf(option1)
+       st.table(bowler_metric)
 
-with col19_1:
-    st.text("")
-    Innings = list(range(1, len(bowler_metric) + 1))
-    Wickets = list(bowler_metric['Wickets'])
-    ECON = list(bowler_metric['ECON'])
+   with col19_1:
+       st.text("")
+       Innings = list(range(1, len(bowler_metric) + 1))
+       Wickets = list(bowler_metric['Wickets'])
+       ECON = list(bowler_metric['ECON'])
 
-    chart_df1 = pd.DataFrame(
+       chart_df1 = pd.DataFrame(
         {'innings': Innings, 'Wickets': Wickets, 'ECON': ECON, 'Runs': list(bowler_metric['Runs'])})
-    fig = px.line(chart_df1, x='innings', y='Wickets', title='Wickets vs ECON vs Runs', animation_group='Wickets')
-    fig.add_scatter(x=chart_df1['innings'], y=chart_df1['ECON'], mode='lines', name='Economy')
-    fig.add_scatter(x=chart_df1['innings'], y=chart_df1['Runs'], mode='lines', name='Runs')
-    st.write(fig)
+       fig = px.line(chart_df1, x='innings', y='Wickets', title='Wickets vs ECON vs Runs', animation_group='Wickets')
+       fig.add_scatter(x=chart_df1['innings'], y=chart_df1['ECON'], mode='lines', name='Economy')
+       fig.add_scatter(x=chart_df1['innings'], y=chart_df1['Runs'], mode='lines', name='Runs')
+       st.write(fig)
