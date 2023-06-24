@@ -248,8 +248,8 @@ col8_0, col8, col8_1 = st.columns([10, .1, 10])
 with col8_0:
     st.text("")
     fig = plt.figure(figsize=(8, 4))
-    corr = corr(batting_summary)
-    st.pyplot(fig)
+    #corr = corr(batting_summary)
+    #st.pyplot(fig)
 
 with col8_1:
     st.text("")
