@@ -443,7 +443,7 @@ option1 = st.selectbox("Pick on of the Bowler to see their Individual Perfomance
 
 col18_0, col18 = st.columns([10, .1])
 
-if option1 == True
+if option1 != None:
     with col18_0:
       st.text("")
       st.write('Perfomance of ', option1, 'in this tournament is ')
