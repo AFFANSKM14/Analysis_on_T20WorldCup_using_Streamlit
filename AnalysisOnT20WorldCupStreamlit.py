@@ -173,13 +173,13 @@ col3_0, col3, col3_1 = st.columns((10, .1, .1))
 with col3_0:
     st.markdown("")
     expander = st.expander('''You can click here to see the raw data of overall T20 WorldCup Match Summary 
-    here:point_right:''')
+    here''')
     with expander:
         st.dataframe(data=match_summary.reset_index(drop=True))
-    expander1 = st.expander('You can click here to see the raw data of batting_summary here:point_right:')
+    expander1 = st.expander('You can click here to see the raw data of batting_summary here')
     with expander1:
         st.dataframe(data=batting_summary.reset_index(drop=True))
-    expander2 = st.expander('You can click here to see the raw data of bowling_summary here:point_right:')
+    expander2 = st.expander('You can click here to see the raw data of bowling_summary here')
     with expander2:
         st.dataframe(data=bowling_summary.reset_index(drop=True))
 st.text('')
